@@ -1,0 +1,2263 @@
+- question: What is the tendency to interpret new information so that it becomes compatible
+    with our existing beliefs?
+  answer: Confirmation Bias
+  repeats: 0
+  interval: 1
+  ease: 2.5
+  choices:
+  - Availability Bias
+  - Confirmation Bias
+  - Outcome Bias
+  - Self-Selection Bias
+  due: 2026-01-01
+- question: What did Charles Darwin do to systematically fight against his own cognitive
+    biases?
+  answer: Noted down observations that contradicted his theory immediately
+  repeats: 0
+  interval: 1
+  ease: 2.5
+  choices:
+  - Ignored all 'special cases'
+  - Noted down observations that contradicted his theory immediately
+  - Published only successful results
+  - Relied on his intuition
+  due: 2026-01-01
+- question: Why is the Internet considered a fertile ground for reinforcing the confirmation
+    bias?
+  answer: Sites mirror existing values and tailor content to history
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It contains too much information
+  - It lacks authoritative sources
+  - Sites mirror existing values and tailor content to history
+  - It is dominated by news illusion
+  due: 2025-12-31
+- question: What does the writer’s motto 'Murder your darlings' mean in the context
+    of fighting bias?
+  answer: Cutting cherished but redundant beliefs or sentences
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Attacking rival theories
+  - Focusing on positive evidence
+  - Cutting cherished but redundant beliefs or sentences
+  - Avoiding all introspection
+  due: 2025-12-31
+- question: What did the 1961 Milgram experiment demonstrate regarding human obedience?
+  answer: People will administer lethal shocks out of obedience
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - People are inherently sadistic
+  - People will administer lethal shocks out of obedience
+  - Social proof matters more than rank
+  - The Contrast Effect overrides empathy
+  due: 2025-12-31
+- question: How have airlines used CRM (Crew Resource Management) to combat authority
+    bias?
+  answer: Coaching crews to discuss reservations openly
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Giving pilots absolute power
+  - Coaching crews to discuss reservations openly
+  - Automating all flight decisions
+  - Reducing the number of flight attendants
+  due: 2025-12-31
+- question: Why might a $3,000 upgrade for leather seats seem cheap when buying a
+    $60,000 car?
+  answer: Contrast Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Sunk Cost Fallacy
+  - The Anchor
+  - Contrast Effect
+  - Scarcity Error
+  due: 2025-12-31
+- question: What is the recommended strategy when seeking a partner to avoid being
+    perceived as less attractive?
+  answer: Go out alone or with 'ugly' friends
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Bring supermodel friends
+  - Use the Halo Effect
+  - Go out alone or with 'ugly' friends
+  - Leverage Social Proof
+  due: 2025-12-31
+- question: Which bias causes us to overestimate risks like plane crashes because
+    they are 'flashy' or loud in our memory?
+  answer: Availability Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Confirmation Bias
+  - Availability Bias
+  - Induction
+  - Outcome Bias
+  due: 2025-12-31
+- question: How do banks often use the availability bias to their own detriment?
+  answer: Using familiar but incorrect tools like Black–Scholes
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Hiring too many experts
+  - Using familiar but incorrect tools like Black–Scholes
+  - Focusing only on quarterly figures
+  - Ignoring the news
+  due: 2025-12-31
+- question: How can an expert use the 'it'll get worse before it gets better' claim
+    as a smokescreen?
+  answer: Any situation confirms their prediction
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It ensures they always lose
+  - Any situation confirms their prediction
+  - It triggers the Sunk Cost Fallacy
+  - It eliminates the Action Bias
+  due: 2025-12-31
+- question: To verify if a 'worse before better' strategy is working, what should
+    you look for?
+  answer: Clear and verifiable milestones
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The expert's confidence
+  - Clear and verifiable milestones
+  - The consensus of the group
+  - Your own intuition
+  due: 2025-12-31
+- question: Why do we remember an emotionally linked story better than a factual list
+    of unconnected events?
+  answer: Story Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Story Bias
+  - Availability Bias
+  - Association Bias
+  - Hindsight Bias
+  due: 2025-12-31
+- question: How do stories affect the quality of our decisions regarding reality?
+  answer: They simplify and distort reality, filtering out non-fitting facts
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They make them more logical
+  - They simplify and distort reality, filtering out non-fitting facts
+  - They provide statistical clarity
+  - They eliminate cognitive dissonance
+  due: 2025-12-31
+- question: What is the 'I told you so' phenomenon where past events seem predictable
+    only after they occur?
+  answer: Hindsight Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Forecast Illusion
+  - Outcome Bias
+  - Hindsight Bias
+  - The Story Bias
+  due: 2025-12-31
+- question: What is a personal tip to overcome the hindsight bias?
+  answer: Keep a journal of your predictions
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Watch more news
+  - Keep a journal of your predictions
+  - Follow expert forecasts
+  - Trust your memory
+  due: 2025-12-31
+- question: What measures the difference between what people really know and what
+    they think they know?
+  answer: Overconfidence Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Social Proof
+  - Overconfidence Effect
+  - The Anchor
+  - Information Bias
+  due: 2025-12-31
+- question: Which group of people generally suffers more from the overconfidence effect?
+  answer: Experts
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Children
+  - Laypeople
+  - Experts
+  - Pessimists
+  due: 2025-12-31
+- question: What is the term for knowledge held by people who have learned to 'put
+    on a show' but don't truly understand?
+  answer: Chauffeur Knowledge
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Twaddle Tendency
+  - Chauffeur Knowledge
+  - Domain Dependence
+  - Strategic Misrepresentation
+  due: 2025-12-31
+- question: What is a clear indicator of a true expert compared to a 'chauffeur'?
+  answer: They will say 'I don't know' when outside their circle
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They have perfect hair
+  - They will say 'I don't know' when outside their circle
+  - They use complex jargon
+  - They are highly eloquent
+  due: 2025-12-31
+- question: What is the tendency to believe we can influence something over which
+    we have no sway?
+  answer: Illusion of Control
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Placebo Effect
+  - Illusion of Control
+  - Confirmation Bias
+  - Action Bias
+  due: 2025-12-31
+- question: What are 'placebo buttons' used for in the context of the illusion of
+    control?
+  answer: Non-functional buttons that provide a sense of influence
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Medical placebos
+  - Non-functional buttons that provide a sense of influence
+  - Emergency shutdown switches
+  - Panic buttons
+  due: 2025-12-31
+- question: How did people in Hanoi react to a bounty for dead rats?
+  answer: They began breeding rats to increase their reward
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They eliminated the rats
+  - They began breeding rats to increase their reward
+  - They asked for more money
+  - They ignored the law
+  due: 2025-12-31
+- question: What is the old adage used to describe how interests dictate behavior?
+  answer: Never ask a barber if you need a haircut
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - A bird in the hand is worth two in the bush
+  - Never ask a barber if you need a haircut
+  - Potters envy potters
+  - I told you so
+  due: 2025-12-31
+- question: What fallacy occurs when we credit a therapist for an improvement that
+    was actually a natural return to average?
+  answer: Regression to Mean
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Beginner's Luck
+  - Regression to Mean
+  - Outcome Bias
+  - Authority Bias
+  due: 2025-12-31
+- question: Why might a teacher conclude that punishment is more effective than praise?
+  answer: Performance naturally fluctuates around a mean
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Praise is toxic
+  - Performance naturally fluctuates around a mean
+  - The Halo Effect
+  - Action bias
+  due: 2025-12-31
+- question: What error involves evaluating a decision based on its result rather than
+    the decision process?
+  answer: Outcome Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Hindsight Bias
+  - Outcome Bias
+  - Sunk Cost Fallacy
+  - Induction
+  due: 2025-12-31
+- question: Why is it unethical to judge a surgeon's skill solely by the survival
+    of a single patient?
+  answer: Small samples are meaningless and randomness plays a role
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Small samples are meaningless and randomness plays a role
+  - The cost is too high
+  - It ignores the Sunk Cost Fallacy
+  - It utilizes the Halo Effect
+  due: 2025-12-31
+- question: According to the sources, a large selection of choices often leads to
+    what?
+  answer: Inner paralysis and poorer decisions
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Higher satisfaction
+  - Inner paralysis and poorer decisions
+  - Better logical results
+  - Increased social proof
+  due: 2025-12-31
+- question: What is the recommended alternative to 'perfect' decision-making in an
+    age of unlimited variety?
+  answer: Learning to love a 'good enough' choice
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Endless research
+  - Learning to love a 'good enough' choice
+  - Asking an authority
+  - Avoiding all choice
+  due: 2025-12-31
+- question: Which factors make a person more 'likeable' and therefore more influential?
+  answer: Attractiveness, similarity, and mutual liking
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Wealth and status
+  - Attractiveness, similarity, and mutual liking
+  - Aggression and power
+  - Expertise and rank
+  due: 2025-12-31
+- question: What sales technique involves copying a client's gestures and language?
+  answer: Mirroring
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Priming
+  - Mirroring
+  - Framing
+  - Reciprocity
+  due: 2025-12-31
+- question: Why do we charge more for an item we own than we would be willing to pay
+    to buy it?
+  answer: Endowment Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Scarcity Error
+  - Endowment Effect
+  - Loss Aversion
+  - Sunk Cost Fallacy
+  due: 2025-12-31
+- question: What is 'near-ownership' in the context of an auction?
+  answer: Feeling that an object is practically yours before winning
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Renting an item
+  - Feeling that an object is practically yours before winning
+  - Borrowing from a friend
+  - Trading items
+  due: 2025-12-31
+- question: How should a rational thinker approach improbable coincidences?
+  answer: As rare but statistically possible events
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - As a sign from God
+  - As telepathy
+  - As rare but statistically possible events
+  - As a clustering illusion
+  due: 2025-12-31
+- question: Why are coincidences not as miraculous as they seem?
+  answer: With enough events, the improbable becomes inevitable
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Because the universe is orderly
+  - With enough events, the improbable becomes inevitable
+  - Because people have high IQs
+  - Because of the Law of Small Numbers
+  due: 2025-12-31
+- question: What is the 'calamity of conformity' where smart people make reckless
+    decisions for consensus?
+  answer: Groupthink
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Social Proof
+  - Groupthink
+  - Social Loafing
+  - Authority Bias
+  due: 2025-12-31
+- question: What role can a 'devil’s advocate' play in a group?
+  answer: Questioning tacit assumptions to prevent groupthink
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Destroying team unity
+  - Acting as an authority
+  - Questioning tacit assumptions to prevent groupthink
+  - Following the majority
+  due: 2025-12-31
+- question: Which fallacy causes us to respond to the magnitude of an event but not
+    its likelihood?
+  answer: Neglect of Probability
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Zero-risk Bias
+  - Neglect of Probability
+  - Exponential Growth
+  - Base-rate Neglect
+  due: 2025-12-31
+- question: What is the 'zero-risk bias'?
+  answer: Preferring to eliminate a small risk over a larger reduction in a higher
+    risk
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Avoiding all risk
+  - Preferring to eliminate a small risk over a larger reduction in a higher risk
+  - Taking only big risks
+  - Ignoring risk entirely
+  due: 2025-12-31
+- question: Which error causes us to want something more because it is 'limited' or
+    'one of a kind'?
+  answer: Scarcity Error
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Endowment Effect
+  - Scarcity Error
+  - Contrast Effect
+  - Liking Bias
+  due: 2025-12-31
+- question: What is 'reactance' in psychology?
+  answer: Deeming an option more attractive when it is taken away
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Fighting back against authority
+  - Deeming an option more attractive when it is taken away
+  - Following social proof
+  - Predicting the future
+  due: 2025-12-31
+- question: If you meet a thin German who likes Mozart, why is he likely a truck driver?
+  answer: Because there are 10,000 times more truck drivers than professors
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Professors don't like music
+  - Because there are 10,000 times more truck drivers than professors
+  - Truck drivers are often thin
+  - It is a coincidental correlation
+  due: 2025-12-31
+- question: What is the medical motto used to combat base-rate neglect?
+  answer: When you hear hoofbeats, don't expect a zebra
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Better safe than sorry
+  - When you hear hoofbeats, don't expect a zebra
+  - Follow your gut
+  - Check the heart first
+  due: 2025-12-31
+- question: What is the false belief that a 'balancing force' will make a coin land
+    on tails after many heads?
+  answer: Gambler’s Fallacy
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Regression to Mean
+  - Gambler's Fallacy
+  - Outcome Bias
+  - Social Proof
+  due: 2025-12-31
+- question: Why is the gambler’s fallacy irrelevant for independent events like coin
+    tosses?
+  answer: Independent events have no memory
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Probabilities change
+  - Independent events have no memory
+  - The coin is loaded
+  - The sample is too small
+  due: 2025-12-31
+- question: What is the term for starting with a known value and 'adjusting' from
+    there, even if irrelevant?
+  answer: The Anchor
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Anchor
+  - Framing
+  - The Contrast Effect
+  - Induction
+  due: 2025-12-31
+- question: How do 'recommended retail prices' affect customers?
+  answer: They act as a misleading anchor for value
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They show true value
+  - They act as a misleading anchor for value
+  - They increase scarcity
+  - They trigger reciprocity
+  due: 2025-12-31
+- question: What is the inclination to draw universal certainties from individual
+    observations?
+  answer: Induction
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Induction
+  - Deduction
+  - The Black Swan
+  - Regression to Mean
+  due: 2025-12-31
+- question: Why is the statement 'Mankind has always survived' a flawed induction?
+  answer: It can only be said by a species that has lasted until now
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Mankind is immortal
+  - It can only be said by a species that has lasted until now
+  - Survival is a choice
+  - It ignores the Sunk Cost Fallacy
+  due: 2025-12-31
+- question: Why does losing $100 hurt more than gaining $100 pleases us?
+  answer: Loss Aversion
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Endowment Effect
+  - Loss Aversion
+  - Sunk Cost Fallacy
+  - Outcome Bias
+  due: 2025-12-31
+- question: How can you more effectively convince someone to buy insulation?
+  answer: Tell them how much money they are losing without it
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Show them how much they save
+  - Tell them how much money they are losing without it
+  - Use a celebrity
+  - Lower the price
+  due: 2025-12-31
+- question: What happens to individual performance as more people pull on a rope together?
+  answer: Individual performance decreases
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It stays the same
+  - It increases
+  - Individual performance decreases
+  - It becomes random
+  due: 2025-12-31
+- question: What is the term for hiding behind a group to avoid personal accountability?
+  answer: Diffusion of responsibility
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Social Proof
+  - Diffusion of responsibility
+  - Groupthink
+  - Risky shift
+  due: 2025-12-31
+- question: Why do humans struggle to understand percentage or exponential growth?
+  answer: Our ancestors mostly experienced linear growth
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - We are bad at math
+  - Our ancestors mostly experienced linear growth
+  - Lack of education
+  - The Anchor bias
+  due: 2025-12-31
+- question: What is the 'Rule of 70' used for?
+  answer: Calculating the time it takes for a value to double
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Finding the average
+  - Calculating the time it takes for a value to double
+  - Calculating interest
+  - Measuring IQ
+  due: 2025-12-31
+- question: Why does the winner of an auction often turn out to be the economic loser?
+  answer: Winner’s Curse
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Sunk Cost Fallacy
+  - Winner’s Curse
+  - Endowment Effect
+  - Contrast Effect
+  due: 2025-12-31
+- question: In what situations is the winner's curse most prevalent?
+  answer: When the value of an item is uncertain
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Fixed price sales
+  - When the value of an item is uncertain
+  - Grocery shopping
+  - Small groups
+  due: 2025-12-31
+- question: What is the tendency to overestimate individuals' influence and underestimate
+    situational factors?
+  answer: Fundamental Attribution Error
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Self-Serving Bias
+  - Fundamental Attribution Error
+  - Halo Effect
+  - Liking Bias
+  due: 2025-12-31
+- question: Why do we naturally focus on people over situations?
+  answer: Group membership was vital for evolutionary survival
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Situations are boring
+  - Group membership was vital for evolutionary survival
+  - Lack of logic
+  - Overconfidence
+  due: 2025-12-31
+- question: What describes the error of assuming storks bring babies because their
+    numbers declined together?
+  answer: False Causality
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Coincidence
+  - False Causality
+  - Induction
+  - Clustering Illusion
+  due: 2025-12-31
+- question: What is the simple truth about linked events like storks and babies?
+  answer: Correlation is not causality
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Storks are magical
+  - Correlation is not causality
+  - One causes the other
+  - They are unrelated news
+  due: 2025-12-31
+- question: What occurs when a single quality (like beauty) affects the overall picture
+    of a person?
+  answer: Halo Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Contrast Effect
+  - Halo Effect
+  - Salience Effect
+  - Liking Bias
+  due: 2025-12-31
+- question: Why do orchestras have candidates play behind a screen?
+  answer: To counteract the halo effect of appearance
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - To hide nervousness
+  - To counteract the halo effect of appearance
+  - To improve acoustics
+  - For privacy
+  due: 2025-12-31
+- question: Why is $10 million won in Russian roulette worth less rationally than
+    $10 million earned as a lawyer?
+  answer: The risk of the alternative path (death) was higher
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Lawyers are smarter
+  - The risk of the alternative path (death) was higher
+  - Sunk Cost Fallacy
+  - Outcome Bias
+  due: 2025-12-31
+- question: How does the brain typically treat alternative paths?
+  answer: It obscures any thought of paths other than the one we are on
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It imagines them vividly
+  - It obscures any thought of paths other than the one we are on
+  - It compares them logically
+  - It ignores them as news
+  due: 2025-12-31
+- question: How accurate are professional experts' predictions compared to random
+    generators?
+  answer: Only marginally better than random
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Extremely accurate
+  - Only marginally better than random
+  - Worse than random
+  - Perfect for five years
+  due: 2025-12-31
+- question: What win-win scenario do 'prophets' enjoy?
+  answer: They are rarely punished for being wrong
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They are always right
+  - They are rarely punished for being wrong
+  - They use logic
+  - They follow the news
+  due: 2025-12-31
+- question: Why is it less likely that Chris is a 'banker who runs a foundation' than
+    just a 'banker'?
+  answer: Conjunction Fallacy
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Base-rate Neglect
+  - Conjunction Fallacy
+  - Availability Bias
+  - Story Bias
+  due: 2025-12-31
+- question: Why are we susceptible to the conjunction fallacy?
+  answer: We have an innate attraction to plausible stories
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - We are lazy
+  - We have an innate attraction to plausible stories
+  - We love details
+  - We ignore math
+  due: 2025-12-31
+- question: Why do people react differently to '99% fat free' vs '1% fat' meat?
+  answer: Framing
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Contrast Effect
+  - Framing
+  - Loss Aversion
+  - The Anchor
+  due: 2025-12-31
+- question: What is the term for presenting a message differently to change how it
+    is received?
+  answer: Framing
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Priming
+  - Framing
+  - Reciprocity
+  - Mirroring
+  due: 2025-12-31
+- question: Why do goalkeepers dive even when a ball lands in the middle?
+  answer: Action Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Higher success rate
+  - Action Bias
+  - Social Proof
+  - Authority Bias
+  due: 2025-12-31
+- question: When is the action bias most likely to be accentuated?
+  answer: When a situation is new or unclear
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - In stable environments
+  - When a situation is new or unclear
+  - In small groups
+  - When we are tired
+  due: 2025-12-31
+- question: Why do we rate passive inaction as less horrible than a comparable active
+    deed?
+  answer: Omission Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Action Bias
+  - Omission Bias
+  - Sunk Cost Fallacy
+  - Loss Aversion
+  due: 2025-12-31
+- question: Which bias explains why refusing a cure seems 'less grave' than actively
+    hurting someone?
+  answer: Omission Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Self-serving bias
+  - Omission Bias
+  - Social proof
+  - Authority bias
+  due: 2025-12-31
+- question: What is the tendency to attribute success to ourselves but failure to
+    external factors?
+  answer: Self-Serving Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Hindsight Bias
+  - Self-Serving Bias
+  - Overconfidence Effect
+  - Outcome Bias
+  due: 2025-12-31
+- question: Why do roommates' trash-duty estimates often total more than 100%?
+  answer: Self-serving bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They are lying
+  - Self-serving bias
+  - Social loafing
+  - Groupthink
+  due: 2025-12-31
+- question: Why does the happiness of winning the lottery fizzle out after a few months?
+  answer: Hedonic Treadmill
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Contrast Effect
+  - Hedonic Treadmill
+  - Sunk Cost Fallacy
+  - Endowment Effect
+  due: 2025-12-31
+- question: What provides more long-lasting happiness than material things?
+  answer: Free time and autonomy
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Cars and houses
+  - Free time and autonomy
+  - Bonuses
+  - Promotions
+  due: 2025-12-31
+- question: Why does it always feel like you are in the slow line at the bank?
+  answer: Self-Selection Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Bad luck
+  - Self-Selection Bias
+  - Confirmation Bias
+  - Hindsight Bias
+  due: 2025-12-31
+- question: Why is a newsletter survey about its own value often worthless?
+  answer: Self-selection of the sample
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It's too short
+  - Self-selection of the sample
+  - Liking bias
+  - Information bias
+  due: 2025-12-31
+- question: What is the tendency to see connections where none exist, like 'lucky'
+    clothing?
+  answer: Association Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Clustering Illusion
+  - Association Bias
+  - False Causality
+  - Induction
+  due: 2025-12-31
+- question: What is the 'shoot-the-messenger' syndrome a form of?
+  answer: Association Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Authority Bias
+  - Association Bias
+  - Social Proof
+  - Loss Aversion
+  due: 2025-12-31
+- question: What is the danger of striking it lucky early in a game?
+  answer: Beginner's luck leads to overconfidence
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Winning too much
+  - Beginner's luck leads to overconfidence
+  - Social Proof
+  - The Anchor
+  due: 2025-12-31
+- question: How do you tell the difference between luck and real talent?
+  answer: Real talent shows consistent superiority over a long period
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Winning big once
+  - Real talent shows consistent superiority over a long period
+  - Trusting your gut
+  - Having many friends
+  due: 2025-12-31
+- question: What occurs when we retrospectively reinterpret a failure, like 'sour
+    grapes'?
+  answer: Cognitive Dissonance
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Sunk Cost Fallacy
+  - Cognitive Dissonance
+  - Hindsight Bias
+  - Self-Serving Bias
+  due: 2025-12-31
+- question: Why do we justify a bad purchase after telling ourselves its flaws are
+    'features'?
+  answer: To resolve cognitive dissonance
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - To hide the cost
+  - To resolve cognitive dissonance
+  - To use the Halo Effect
+  - To avoid social proof
+  due: 2025-12-31
+- question: Why do we often prefer $1,000 today over $1,100 in a month, despite the
+    massive interest rate?
+  answer: Hyperbolic Discounting
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Decision Fatigue
+  - Hyperbolic Discounting
+  - Scarcity Error
+  - Action Bias
+  due: 2025-12-31
+- question: Which reliable indicator of future career success was identified by the
+    'marshmallow experiment'?
+  answer: Capacity for delayed gratification
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - High IQ scores
+  - Capacity for delayed gratification
+  - Social networking
+  - Strategic misrepresentation
+  due: 2025-12-31
+- question: Why did 93% of people allow a stranger to cut in a line just by saying
+    'because I have to make some copies'?
+  answer: The word 'because' greases the wheels of human interaction
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The reason was logically sound
+  - The word 'because' greases the wheels of human interaction
+  - It was a form of social proof
+  - It was an authority bias
+  due: 2025-12-31
+- question: How do road signs like 'We're renovating the highway for you' affect frustrated
+    drivers?
+  answer: They provide a redundant but calming justification
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They increase anger
+  - They provide a redundant but calming justification
+  - They act as social proof
+  - They trigger the anchor effect
+  due: 2025-12-31
+- question: Why are judicial decisions for early release most likely to be granted
+    immediately after a meal recess?
+  answer: Decision fatigue causes judges to take the easy status quo option
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Judges are more merciful
+  - Decision fatigue causes judges to take the easy status quo option
+  - The Halo Effect is at work
+  - It is an outcome bias
+  due: 2025-12-31
+- question: Why does IKEA place its restaurants in the middle of its stores?
+  answer: To top up blood sugar to combat decision fatigue
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - To earn extra profit
+  - To top up blood sugar to combat decision fatigue
+  - To provide social proof
+  - To utilize the scarcity error
+  due: 2025-12-31
+- question: Why would most people refuse to wear a freshly laundered sweater that
+    Hitler had once worn?
+  answer: Contagion Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Association Bias
+  - Contagion Bias
+  - Hindsight Bias
+  - The Halo Effect
+  due: 2025-12-31
+- question: Which bias describes the hesitation felt when asked to shoot darts at
+    a photo of a loved one?
+  answer: Treating an object as if it contains a mystic force
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Omission Bias
+  - Treating an object as if it contains a mystic force
+  - Social Comparison Bias
+  - Fear of Regret
+  due: 2025-12-31
+- question: Why is 'average wealth' meaningless if Bill Gates gets on a bus with 50
+    people?
+  answer: A single outlier radically alters the average
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Law of Small Numbers
+  - A single outlier radically alters the average
+  - The Halo Effect
+  - The Anchor
+  due: 2025-12-31
+- question: Why is it dangerous to cross a river that is 'on average' four feet deep?
+  answer: Averages mask underlying distributions
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Averages are always low
+  - Averages mask underlying distributions
+  - The river changes flow
+  - It is an Inductive fallacy
+  due: 2025-12-31
+- question: Why did tardiness at a daycare increase after a late fee (monetary incentive)
+    was introduced?
+  answer: Monetary incentives crowd out non-monetary motivations
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The fee was too low
+  - Monetary incentives crowd out non-monetary motivations
+  - The Sunk Cost Fallacy
+  - Social Loafing
+  due: 2025-12-31
+- question: What happens when you suddenly introduce a bonus system into a non-profit
+    organization?
+  answer: The team will begin to snub tasks that bring no extra reward
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It increases creativity
+  - The team will begin to snub tasks that bring no extra reward
+  - It improves reputation
+  - It eliminates social loafing
+  due: 2025-12-31
+- question: What is the term for using reams of words to disguise intellectual laziness
+    or ignorance?
+  answer: Twaddle Tendency
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Chauffeur Knowledge
+  - Twaddle Tendency
+  - Strategic Misrepresentation
+  - Forecast Illusion
+  due: 2025-12-31
+- question: According to Jack Welch, why are people afraid of being simple and clear
+    in business?
+  answer: They fear they may be seen as a simpleton
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They fear being too loud
+  - They fear they may be seen as a simpleton
+  - They want to hide secrets
+  - They prefer the Halo Effect
+  due: 2025-12-31
+- question: How can moving a mediocre client from group A to group B increase the
+    average of both?
+  answer: Stage migration
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Law of Small Numbers
+  - Stage migration
+  - Problem with Averages
+  - Regression to Mean
+  due: 2025-12-31
+- question: What phenomenon describes Oklahomans moving to California and raising
+    the average IQ of both states?
+  answer: Will Rogers Phenomenon
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Stage migration
+  - Will Rogers Phenomenon
+  - Outcome Bias
+  - Survivorship Bias
+  due: 2025-12-31
+- question: Why are small rural stores found at both the top and bottom of shoplifting
+    rate rankings?
+  answer: Small sample sizes lead to extreme statistical fluctuations
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Rural people are different
+  - Small sample sizes lead to extreme statistical fluctuations
+  - The Problem with Averages
+  - Base-rate Neglect
+  due: 2025-12-31
+- question: What should you do when you hear an 'astounding' statistic about a very
+    small entity?
+  answer: Recognize it as a consequence of random distribution
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Investigate the cause
+  - Recognize it as a consequence of random distribution
+  - Look for the Halo Effect
+  - Attribute it to skill
+  due: 2025-12-31
+- question: Why did Google’s stock plunge 16% in 2006 despite reporting record-breaking
+    revenue and profit?
+  answer: The results failed to meet analysts' expectations
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The company was failing
+  - The results failed to meet analysts' expectations
+  - The Contrast Effect
+  - Hyperbolic Discounting
+  due: 2025-12-31
+- question: What is the Rosenthal effect?
+  answer: Expectations can subconsciously alter reality
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Results always match luck
+  - Expectations can subconsciously alter reality
+  - Social Proof
+  - The Halo Effect
+  due: 2025-12-31
+- question: In the bat-and-ball problem, why do people answer '10 cents' when the
+    correct answer is '5 cents'?
+  answer: Intuitive thinking is swift but skips logical verification
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They are bad at math
+  - Intuitive thinking is swift but skips logical verification
+  - The Anchor Effect
+  - The Contrast Effect
+  due: 2025-12-31
+- question: Which ability correlates with high scores on the Cognitive Reflection
+    Test (CRT)?
+  answer: Turning down instant gratification
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Mathematical genius
+  - Turning down instant gratification
+  - Social popularity
+  - Expertise in logic
+  due: 2025-12-31
+- question: Why do people identify with universal, flattering horoscopes as accurate
+    descriptions of themselves?
+  answer: Forer Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Astrology is a science
+  - Forer Effect
+  - Confirmation Bias
+  - The Halo Effect
+  due: 2025-12-31
+- question: Which bias contributes to the Forer Effect by making us filter out statements
+    that don't fit our self-image?
+  answer: Confirmation Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Liking Bias
+  - Confirmation Bias
+  - Hindsight Bias
+  - Self-Serving Bias
+  due: 2025-12-31
+- question: Why is it 'folly' for a $500/hr photographer to spend hours building birdhouses?
+  answer: Volunteer’s Folly
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Sunk Cost Fallacy
+  - Volunteer’s Folly
+  - Social Loafing
+  - Omission Bias
+  due: 2025-12-31
+- question: Who is the only group exempt from volunteer’s folly due to the value of
+    publicity?
+  answer: Celebrities
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Students
+  - Retirees
+  - Celebrities
+  - Politicians
+  due: 2025-12-31
+- question: What describes judging risks and benefits based on whether we spontaneously
+    like or dislike a topic?
+  answer: Affect Heuristic
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Affect Heuristic
+  - Halo Effect
+  - Contrast Effect
+  - Association Bias
+  due: 2025-12-31
+- question: How does morning sunshine affect daily stock market performance?
+  answer: Positive emotions from the sun lead to higher market returns
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It has no effect
+  - Positive emotions from the sun lead to higher market returns
+  - Investors become more cautious
+  - It triggers the Scarcity Error
+  due: 2025-12-31
+- question: What is the belief that self-reflection leads to genuine truth or accurate
+    self-knowledge?
+  answer: Introspection Illusion
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - In-Group Bias
+  - Introspection Illusion
+  - Cognitive Dissonance
+  - Hindsight Bias
+  due: 2025-12-31
+- question: How do we perceive those who do not share our internal convictions due
+    to the introspection illusion?
+  answer: We assume they are ignorant, stupid, or malicious
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - We respect their views
+  - We assume they are ignorant, stupid, or malicious
+  - We use social proof
+  - We suffer from Envy
+  due: 2025-12-31
+- question: Why did General Xiang Yu order his own ships to be set alight?
+  answer: To remove the option of retreat
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - To save fuel
+  - To remove the option of retreat
+  - To use the Scarcity Error
+  - To avoid social loafing
+  due: 2025-12-31
+- question: What is the invisible cost of trying to keep too many 'irons in the fire'?
+  answer: It consumes mental energy and time
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Higher taxes
+  - It consumes mental energy and time
+  - Social Comparison Bias
+  - The Contrast Effect
+  due: 2025-12-31
+- question: What is the term for the irrational mania for all things shiny and new?
+  answer: Neomania
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Hedonic Treadmill
+  - Neomania
+  - Social Proof
+  - Alternative Blindness
+  due: 2025-12-31
+- question: According to the 'bullshit filter of history,' how long is a technology
+    likely to last if it has already lasted 50 years?
+  answer: Another 50 years
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - 10 years
+  - Another 50 years
+  - It will be replaced soon
+  - Indefinitely
+  due: 2025-12-31
+- question: Why does propaganda become more effective months after viewing?
+  answer: The source fades faster than the message
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The message improves
+  - The source fades faster than the message
+  - The Halo Effect
+  - Primacy Effect
+  due: 2025-12-31
+- question: What describes a message gaining credibility as the 'discrediting force'
+    of its source melts away?
+  answer: Sleeper Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Primacy Effect
+  - Sleeper Effect
+  - Framing
+  - Reciprocity
+  due: 2025-12-31
+- question: What fallacy occurs when we focus only on the offer at hand and forget
+    to compare it to the next-best option?
+  answer: Alternative Blindness
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Framing
+  - Alternative Blindness
+  - Paradox of Choice
+  - The Anchor
+  due: 2025-12-31
+- question: Why is a $100,000 MBA brochure misleading about its $400,000 profit claim?
+  answer: It ignores loss of earnings and other alternatives
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The math is wrong
+  - It ignores loss of earnings and other alternatives
+  - It uses the Halo Effect
+  - It uses Social Proof
+  due: 2025-12-31
+- question: What is the tendency to withhold assistance to people who might outdo
+    you?
+  answer: Social Comparison Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Envy
+  - Social Comparison Bias
+  - In-Group Bias
+  - Liking Bias
+  due: 2025-12-31
+- question: What did Steve Jobs call the result of hiring B-players who then hire
+    C-players to feel superior?
+  answer: The bozo explosion
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Corporate suicide
+  - The bozo explosion
+  - Social loafing
+  - Groupthink
+  due: 2025-12-31
+- question: Why do first impressions dominate our evaluation of traits like 'smart
+    and stubborn'?
+  answer: Primacy Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Recency Effect
+  - Primacy Effect
+  - The Halo Effect
+  - Confirmation Bias
+  due: 2025-12-31
+- question: When does the 'recency effect' (remembering the last part best) typically
+    dominate?
+  answer: When information was formed some time ago
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - In immediate decisions
+  - When information was formed some time ago
+  - In written lists
+  - In face-to-face meetings
+  due: 2025-12-31
+- question: Which syndrome makes us believe that anything we create ourselves is inherently
+    unbeatable?
+  answer: Not-Invented-Here syndrome
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Endowment Effect
+  - Not-Invented-Here syndrome
+  - Self-Serving Bias
+  - Beginner's Luck
+  due: 2025-12-31
+- question: How does NIH syndrome affect large corporations regarding external software
+    solutions?
+  answer: They reject superior external ideas for home-grown ones
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They buy everything
+  - They reject superior external ideas for home-grown ones
+  - They increase efficiency
+  - They utilize the Contrast Effect
+  due: 2025-12-31
+- question: What is an unthinkable, improbable event that has a massive impact on
+    history?
+  answer: The Black Swan
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Forecast Illusion
+  - The Black Swan
+  - Coincidence
+  - Alternative Paths
+  due: 2025-12-31
+- question: What is the safest way to handle negative Black Swans?
+  answer: Stay out of debt and invest conservatively
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Predict them
+  - Stay out of debt and invest conservatively
+  - Follow the news
+  - Trust the experts
+  due: 2025-12-31
+- question: Why might a doctor understand base rates in medicine but fail to apply
+    them to economics?
+  answer: Domain Dependence
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Twaddle Tendency
+  - Domain Dependence
+  - Chauffeur Knowledge
+  - Deformation Professionnelle
+  due: 2025-12-31
+- question: What does the phrase 'book smarts doesn't transfer to street smarts easily'
+    describe?
+  answer: Domain Dependence
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Forer Effect
+  - Domain Dependence
+  - In-Group Bias
+  - Hyperbolic Discounting
+  due: 2025-12-31
+- question: What is the tendency to overestimate how many people share our specific
+    tastes and opinions?
+  answer: False-Consensus Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Social Proof
+  - False-Consensus Effect
+  - Not-Invented-Here
+  - Liking Bias
+  due: 2025-12-31
+- question: How do we categorize people who do not share our opinions due to the false-consensus
+    effect?
+  answer: As abnormal, stupid, or humorless
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - As pioneers
+  - As abnormal, stupid, or humorless
+  - As experts
+  - As altruists
+  due: 2025-12-31
+- question: Why do we subconsciously adjust our past views to match our current beliefs?
+  answer: To avoid admitting mistakes
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - To be accurate
+  - To avoid admitting mistakes
+  - Hindsight Bias
+  - The Story Bias
+  due: 2025-12-31
+- question: What are 'flashbulb memories' (like where you were on 9/11) in reality?
+  answer: Products of reconstruction
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Flawless photographs
+  - Products of reconstruction
+  - Permanent biological records
+  - Social Proof
+  due: 2025-12-31
+- question: Why do strangers show favoritism if told they share a minor trait like
+    an art preference?
+  answer: In-Group Out-Group Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Social Proof
+  - In-Group Out-Group Bias
+  - Liking Bias
+  - Reciprocity
+  due: 2025-12-31
+- question: What is the out-group homogeneity bias?
+  answer: Seeing everyone outside your group as more similar than they are
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Stereotyping
+  - Seeing everyone outside your group as more similar than they are
+  - Diffusion of responsibility
+  - Groupthink
+  due: 2025-12-31
+- question: Why do we prefer known probabilities over unknown ones (Ellsberg Paradox)?
+  answer: Ambiguity Aversion
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Zero-risk Bias
+  - Ambiguity Aversion
+  - Loss Aversion
+  - Neglect of Probability
+  due: 2025-12-31
+- question: Which part of the brain is primarily responsible for how we tolerate uncertainty?
+  answer: The Amygdala
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Prefrontal Cortex
+  - The Amygdala
+  - The Cerebellum
+  - The Hippocampus
+  due: 2025-12-31
+- question: Why do most people stick with standard cellphone factory settings?
+  answer: Default Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Decision Fatigue
+  - Default Effect
+  - Loss Aversion
+  - Social Proof
+  due: 2025-12-31
+- question: How can behavior be changed without unconstitutionally restricting freedom?
+  answer: By changing the default setting
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - By passing new laws
+  - By changing the default setting
+  - By increasing taxes
+  - By using Social Proof
+  due: 2025-12-31
+- question: Why do we act conservatively to avoid the feeling of making the 'wrong'
+    decision?
+  answer: Fear of Regret
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Endowment Effect
+  - Fear of Regret
+  - Contrast Effect
+  - Scarcity Error
+  due: 2025-12-31
+- question: What can make us buy property at an exorbitant price when told it is the
+    'last plot'?
+  answer: Fear of regret combined with a last chance offer
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Halo Effect
+  - Fear of regret combined with a last chance offer
+  - The Contrast Effect
+  - Authority Bias
+  due: 2025-12-31
+- question: What describes outstanding or 'eye-catching' features receiving more attention
+    than they deserve?
+  answer: Salience Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Halo Effect
+  - Salience Effect
+  - Contrast Effect
+  - Social Proof
+  due: 2025-12-31
+- question: Why might a journalist blame marijuana for a crash simply because it was
+    present?
+  answer: Salience Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Confirmation Bias
+  - Salience Effect
+  - Outcome Bias
+  - Story Bias
+  due: 2025-12-31
+- question: Why do people treat won or discovered money more frivolously than hard-earned
+    cash?
+  answer: House-money effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Endowment Effect
+  - House-money effect
+  - Loss Aversion
+  - Sunk Cost Fallacy
+  due: 2025-12-31
+- question: Which effect leads lottery winners to take bigger risks with their winnings?
+  answer: House-money effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Self-Serving Bias
+  - House-money effect
+  - Social Loafing
+  - Induction
+  due: 2025-12-31
+- question: What is the tendency to delay unpleasant but important acts?
+  answer: Procrastination
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Action Bias
+  - Procrastination
+  - Omission Bias
+  - Social Loafing
+  due: 2025-12-31
+- question: Why is self-control not available around the clock?
+  answer: It needs time to refuel
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Laziness
+  - It needs time to refuel
+  - Lack of motivation
+  - The Zeigarnik Effect
+  due: 2025-12-31
+- question: Toward whom do we direct our resentment in the 'potters envy potters'
+    phenomenon?
+  answer: Those who are most similar to us
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The extremely wealthy
+  - Those who are most similar to us
+  - People in other fields
+  - Celebrities
+  due: 2025-12-31
+- question: What is the best way to curb envy?
+  answer: Stop comparing yourself to others
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Work harder
+  - Stop comparing yourself to others
+  - Move to a richer area
+  - Follow Social Proof
+  due: 2025-12-31
+- question: Why do we prefer human stories with names and faces over statistical data?
+  answer: Personification
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Story Bias
+  - Personification
+  - The Halo Effect
+  - Liking Bias
+  due: 2025-12-31
+- question: Which literary 'killer app' projects conflicts onto individual destinies?
+  answer: The Novel
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The Map
+  - The Novel
+  - The Spreadsheet
+  - The Graph
+  due: 2025-12-31
+- question: Why do viewers fail to see a gorilla in a basketball video while counting
+    passes?
+  answer: Illusion of Attention
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They are blind
+  - Illusion of Attention
+  - Confirmation Bias
+  - The Halo Effect
+  due: 2025-12-31
+- question: Why is it dangerous to talk on the phone while driving, even hands-free?
+  answer: Attention is too stretched to react to unanticipated events
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The phone is a distraction
+  - Attention is too stretched to react to unanticipated events
+  - Social Proof
+  - Action Bias
+  due: 2025-12-31
+- question: What describes exaggerated assertions made when high stakes are involved,
+    such as job interviews?
+  answer: Strategic Misrepresentation
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Overconfidence
+  - Strategic Misrepresentation
+  - Forer Effect
+  - Action Bias
+  due: 2025-12-31
+- question: What is 'reverse Darwinism' in the context of mega-projects?
+  answer: Whoever produces the most hot air wins the project
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Survival of the fittest
+  - Whoever produces the most hot air wins the project
+  - Social Loafing
+  - Authority Bias
+  due: 2025-12-31
+- question: When we think too much, what do we cut our minds off from?
+  answer: The wisdom of our feelings
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Logical facts
+  - The wisdom of our feelings
+  - Social Proof
+  - Authority Bias
+  due: 2025-12-31
+- question: When should we heed our 'gut' over sober reflection?
+  answer: Practised motor skills and ancestral tasks
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Investment decisions
+  - Practised motor skills and ancestral tasks
+  - Complex math
+  - Legal strategy
+  due: 2025-12-31
+- question: Why do we systematically take on too much work despite past failures to
+    finish to-do lists?
+  answer: Planning Fallacy
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Social Loafing
+  - Planning Fallacy
+  - Hyperbolic Discounting
+  - Decision Fatigue
+  due: 2025-12-31
+- question: What is a 'premortem' session?
+  answer: Imagining a project has failed and writing about the disaster
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Planning the end
+  - Imagining a project has failed and writing about the disaster
+  - Reviewing costs
+  - A Sunk Cost meeting
+  due: 2025-12-31
+- question: Which effect is described by 'If your only tool is a hammer, all your
+    problems will be nails'?
+  answer: Déformation Professionnelle
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Authority Bias
+  - Déformation Professionnelle
+  - Domain Dependence
+  - The Halo Effect
+  due: 2025-12-31
+- question: To better equip our 'mental Swiss Army knife,' what should we add?
+  answer: Mental models from multiple disciplines
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - More hammers
+  - Mental models from multiple disciplines
+  - More experts
+  - Better spreadsheets
+  due: 2025-12-31
+- question: Why do uncompleted tasks persist in our memory while completed ones are
+    erased?
+  answer: Zeigarnik Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Hindsight Bias
+  - Zeigarnik Effect
+  - Decision Fatigue
+  - Information Bias
+  due: 2025-12-31
+- question: What is sufficient to erase a 'messy' project from your mind without completing
+    it?
+  answer: A detailed plan of action
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Forgetting it
+  - A detailed plan of action
+  - Admitting defeat
+  - Taking a vacation
+  due: 2025-12-31
+- question: Why are there so few serial successful entrepreneurs?
+  answer: Luck plays a bigger role than skill
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - They retire early
+  - Luck plays a bigger role than skill
+  - Endowment Effect
+  - Hyperbolic Discounting
+  due: 2025-12-31
+- question: What matters more than 'how effectively you row' according to Warren Buffett?
+  answer: What business boat you get into
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Your rowing talent
+  - What business boat you get into
+  - The size of your oars
+  - The number of rowers
+  due: 2025-12-31
+- question: What describes the tendency to emphasize what is present over what is
+    absent?
+  answer: Feature-Positive Effect
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Confirmation Bias
+  - Feature-Positive Effect
+  - Forer Effect
+  - Outcome Bias
+  due: 2025-12-31
+- question: Why is 'Smoking causes cancer' a more powerful message than 'Not smoking
+    leads to health'?
+  answer: Absence is much harder to detect than presence
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It uses fear
+  - Absence is much harder to detect than presence
+  - It is shorter
+  - Loss Aversion
+  due: 2025-12-31
+- question: What is the practice of showcasing triumphs and hiding failed projects
+    in annual reports?
+  answer: Cherry-picking
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Self-Serving Bias
+  - Cherry-picking
+  - Outcome Bias
+  - Hindsight Bias
+  due: 2025-12-31
+- question: What does 'drawing the bull’s-eye around the arrow' describe?
+  answer: Replacing original goals with self-set attainable ones
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Perfect accuracy
+  - Replacing original goals with self-set attainable ones
+  - Skillful archery
+  - The Anchor Effect
+  due: 2025-12-31
+- question: What error occurs when we pin a complex event on a single root factor?
+  answer: Fallacy of the Single Cause
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Hindsight Bias
+  - Fallacy of the Single Cause
+  - Association Bias
+  - Base-rate Neglect
+  due: 2025-12-31
+- question: Why is the hunt for a scapegoat common after disasters?
+  answer: Singular reasons allow us to blame individuals
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It is a natural law
+  - Singular reasons allow us to blame individuals
+  - Social Proof
+  - Action Bias
+  due: 2025-12-31
+- question: Why might a study falsely conclude speeders drive more safely because
+    they reached their destination?
+  answer: Intention-To-Treat Error
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Survivorship Bias
+  - Intention-To-Treat Error
+  - Outcome Bias
+  - Clustering Illusion
+  due: 2025-12-31
+- question: What is a key feature of the intention-to-treat error?
+  answer: Failed subjects show up in the wrong category
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Failed subjects are ignored
+  - Failed subjects show up in the wrong category
+  - Success is exaggerated
+  - The sample is too large
+  due: 2025-12-31
+- question: What is 'to the mind what sugar is to the body'?
+  answer: News
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Books
+  - News
+  - Social Proof
+  - Logic
+  due: 2025-12-31
+- question: Why is news consumption a competitive disadvantage?
+  answer: It provides a distorted map of risks and irrelevant snippets
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It is too slow
+  - It provides a distorted map of risks and irrelevant snippets
+  - It is expensive
+  - It creates social proof
+  due: 2025-12-31
+- question: What was Michelangelo's secret to creating the David?
+  answer: He removed everything that was not David
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - He used better tools
+  - He removed everything that was not David
+  - He had a master plan
+  - He practiced daily
+  due: 2025-12-31
+- question: What is the 'Via Negativa' approach to thinking?
+  answer: Eliminating thinking errors so better thinking follows
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Positive thinking
+  - Eliminating thinking errors so better thinking follows
+  - Inductive reasoning
+  - Forecast Illusion
+  due: 2025-12-31
+- question: Why do we often continue with a failing project simply because we have
+    already invested so much time or money?
+  answer: Sunk Cost Fallacy
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Endowment Effect
+  - Sunk Cost Fallacy
+  - Loss Aversion
+  - Strategic Misrepresentation
+  due: 2025-12-31
+- question: Rational decision-making requires you to ignore past costs and focus only
+    on what?
+  answer: Future costs and benefits
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Consistency with past choices
+  - Public reputation
+  - Future costs and benefits
+  - Admitting defeat
+  due: 2025-12-31
+- question: How does the Hare Krishna sect use reciprocity to get donations?
+  answer: Giving a 'gift' flower before asking for money
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Giving a 'gift' flower before asking for money
+  - Using celebrity testimonials
+  - Dressing in saffron robes
+  - Quoting religious scriptures
+  due: 2025-12-31
+- question: What is considered the 'ugly side' of the principle of reciprocity?
+  answer: Retaliation and revenge
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Social loafing
+  - Retaliation and revenge
+  - The Halo Effect
+  - The Anchor
+  due: 2025-12-31
+- question: Which illusion describes the tendency for the human brain to seek patterns
+    and 'hidden messages' where none exist?
+  answer: Clustering Illusion
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Story Bias
+  - Clustering Illusion
+  - Association Bias
+  - Induction
+  due: 2025-12-31
+- question: What should you do if you believe you have found a specific pattern in
+    random data like the stock market?
+  answer: Have the data tested statistically by a mathematician
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Invest immediately
+  - Trust your gut instinct
+  - Look for more confirming evidence
+  - Have the data tested statistically by a mathematician
+  due: 2025-12-31
+- question: Which principle makes individuals feel they are behaving correctly when
+    they act the same as others?
+  answer: Social Proof
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Groupthink
+  - Social Proof
+  - Authority Bias
+  - Liking Bias
+  due: 2025-12-31
+- question: Why was 'canned laughter' introduced to television comedy and talk shows?
+  answer: To incite the audience to laugh along via social proof
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - To hide bad writing
+  - To provide a rhythmic structure
+  - To incite the audience to laugh along via social proof
+  - To create the Contrast Effect
+  due: 2025-12-31
+- question: Which bias causes us to overestimate our chances of success because triumphs
+    are more visible than failures?
+  answer: Survivorship Bias
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Outcome Bias
+  - Survivorship Bias
+  - Social Proof
+  - Hindsight Bias
+  due: 2025-12-31
+- question: Why is a stock index like the Dow Jones not truly indicative of a country’s
+    entire economy?
+  answer: It consists only of out-and-out survivors
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - It tracks only technology stocks
+  - It consists only of out-and-out survivors
+  - It is based on the median wealth
+  - It excludes international companies
+  due: 2025-12-31
+- question: According to the sources, why do professional swimmers have 'perfect'
+    bodies?
+  answer: Physique is a selection factor, not just the result
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - Physique is a selection factor, not just the result
+  - Training overrides genetic limits
+  - Chlorine improves muscle tone
+  - It is an illusion of the Contrast Effect
+  due: 2025-12-31
+- question: Why should we be skeptical of happiness advice found in self-help books?
+  answer: Happiness is often a constant personality trait
+  repeats: 0
+  interval: 0
+  ease: 2.5
+  choices:
+  - The authors are lying
+  - Happiness is often a constant personality trait
+  - It triggers the Sunk Cost Fallacy
+  - It relies on Social Proof
+  due: 2025-12-31
