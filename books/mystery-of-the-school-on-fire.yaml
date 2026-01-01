@@ -1,0 +1,399 @@
+- question: "Aditya was the elder of the twins by virtue of being born a couple of minutes before Akriti. What does 'virtue' mean in this context?"
+  answer: "Because of or as a result of"
+  choices:
+    - "In spite of"
+    - "Because of or as a result of"
+    - "Against the rules of"
+    - "While dreaming of"
+
+- question: "Kabir's large glasses made him look studious, though he was the opposite. What does 'studious' mean?"
+  answer: "Spending a lot of time studying or reading"
+  choices:
+    - "Very lazy and sleepy"
+    - "Spending a lot of time studying or reading"
+    - "Good at playing football"
+    - "Likely to get into trouble"
+
+- question: "Sacred Heart was one of the most renowned schools in Solan. What does 'renowned' mean?"
+  answer: "Famous or well-known"
+  choices:
+    - "Completely unknown"
+    - "Famous or well-known"
+    - "Very small and dirty"
+    - "Recently built"
+
+- question: "Solan was described as a picturesque town at the foothills of the Himalayas. What does 'picturesque' mean?"
+  answer: "Visually attractive or pretty"
+  choices:
+    - "Visually attractive or pretty"
+    - "Full of tall skyscrapers"
+    - "Very loud and crowded"
+    - "Difficult to find on a map"
+
+- question: "Lack of work had made the city police rusty and lethargic. How did the police feel?"
+  answer: "Lazy and lacking energy"
+  choices:
+    - "Excited and energetic"
+    - "Lazy and lacking energy"
+    - "Angry and violent"
+    - "Smart and quick-thinking"
+
+- question: "Sister Maria Leena was a stickler for discipline. What does this say about her?"
+  answer: "She insisted on perfection in behavior"
+  choices:
+    - "She did not care about rules"
+    - "She was often late for school"
+    - "She insisted on perfection in behavior"
+    - "She liked to give out candy"
+
+- question: "Families in Solan had been through the portals of the school for years. What are 'portals'?"
+  answer: "Doorways or entrances"
+  choices:
+    - "Computer screens"
+    - "Hidden tunnels"
+    - "Doorways or entrances"
+    - "School buses"
+
+- question: "The post office was described as an imposing brick structure. What does 'imposing' mean?"
+  answer: "Grand and impressive in appearance"
+  choices:
+    - "Small and easy to miss"
+    - "Grand and impressive in appearance"
+    - "Falling apart and ruined"
+    - "Painted in bright neon colors"
+
+- question: "Aditya was close enough to hear the postmaster and Sister Leena's lament. What is a 'lament'?"
+  answer: "An expression of grief or disappointment"
+  choices:
+    - "A loud, happy cheer"
+    - "A secret password"
+    - "An expression of grief or disappointment"
+    - "A plan to go on vacation"
+
+- question: "The new school offered modern amenities to its students. What are 'amenities'?"
+  answer: "Useful features or facilities"
+  choices:
+    - "Useful features or facilities"
+    - "Very difficult homework assignments"
+    - "Old, broken desks"
+    - "Strict punishments"
+
+- question: "Sister Leena sighed because the coolness quotient of the new school was higher. What does 'quotient' mean here?"
+  answer: "A degree or amount of a quality"
+  choices:
+    - "The price of a uniform"
+    - "A mathematical division result"
+    - "A degree or amount of a quality"
+    - "The name of the principal"
+
+- question: "The school planned to refurbish the classrooms and labs for the inspection. What did they do?"
+  answer: "Renovated or redecorated"
+  choices:
+    - "Locked the doors forever"
+    - "Sold the furniture"
+    - "Renovated or redecorated"
+    - "Painted everything black"
+
+- question: "Sister Leena said the preparation was now a thorough exercise. What does 'thorough' mean?"
+  answer: "Complete and detailed"
+  choices:
+    - "Complete and detailed"
+    - "Quick and careless"
+    - "Only half-finished"
+    - "Very boring"
+
+- question: "The sorting room was filled with the sound of choral music from a phone. What is 'choral' music?"
+  answer: "Music sung by a choir or group"
+  choices:
+    - "Music played on a single drum"
+    - "Very loud rock music"
+    - "Music sung by a choir or group"
+    - "The sound of a silent room"
+
+- question: "A very agitated looking Sister Leena returned to the room. How did she feel?"
+  answer: "Feeling troubled or nervous"
+  choices:
+    - "Feeling troubled or nervous"
+    - "Extremely happy and relaxed"
+    - "Very hungry for lunch"
+    - "Ready to go to sleep"
+
+- question: "'In the science lab,' Sister Leena muttered as she left. How did she speak?"
+  answer: "Spoke in a low, quiet voice"
+  choices:
+    - "Yelled at the top of her lungs"
+    - "Sang a happy song"
+    - "Spoke in a low, quiet voice"
+    - "Used sign language"
+
+- question: "Sister Leena argued that it only takes one mishap to change a life. What is a 'mishap'?"
+  answer: "An unlucky accident"
+  choices:
+    - "A great piece of luck"
+    - "A birthday party"
+    - "An unlucky accident"
+    - "A graduation ceremony"
+
+- question: "Sister Leena was sure the fire was an act of sabotage. What does 'sabotage' mean?"
+  answer: "Deliberate destruction or damage"
+  choices:
+    - "A surprise celebration"
+    - "Deliberate destruction or damage"
+    - "A scientific discovery"
+    - "An honest mistake"
+
+- question: "Aditya said they would figure out who was trying to defame the school. What does 'defame' mean?"
+  answer: "To damage a reputation"
+  choices:
+    - "To paint a building"
+    - "To damage a reputation"
+    - "To win a prize"
+    - "To join a club"
+
+- question: "Grandpa would often have the most intense conversations at breakfast. What does 'intense' mean?"
+  answer: "Having great focus or strong feelings"
+  choices:
+    - "Very quiet and silly"
+    - "Having great focus or strong feelings"
+    - "Short and unimportant"
+    - "Related to the weather"
+
+- question: "The twins protested so wildly that their parents had to relent. What did the parents do?"
+  answer: "Finally gave in or agreed"
+  choices:
+    - "Finally gave in or agreed"
+    - "Became even more strict"
+    - "Forgot what they were talking about"
+    - "Left the house in anger"
+
+- question: "The advertisement for the new school had a cheeky tagline. What does 'cheeky' mean?"
+  answer: "Bold and slightly disrespectful in a funny way"
+  choices:
+    - "Very sad and serious"
+    - "Bold and slightly disrespectful in a funny way"
+    - "Written in a foreign language"
+    - "Impossible to read"
+
+- question: "The twins' faces turned a deep crimson when they saw the ad. What color did they turn?"
+  answer: "Deep red"
+  choices:
+    - "Bright yellow"
+    - "Pale white"
+    - "Deep red"
+    - "Ocean blue"
+
+- question: "Their mother managed to remain unruffled always. How did she feel?"
+  answer: "Calm and not upset"
+  choices:
+    - "Very messy and confused"
+    - "Calm and not upset"
+    - "Constantly shouting"
+    - "Always in a hurry"
+
+- question: "Their mother seldom got angry with the children. How often did it happen?"
+  answer: "Not often; rarely"
+  choices:
+    - "Every single day"
+    - "Not often; rarely"
+    - "Only on weekends"
+    - "Once every hour"
+
+- question: "Mother noted that the tagline could not have been a coincidence. What is a 'coincidence'?"
+  answer: "Events happening at the same time by chance"
+  choices:
+    - "A planned meeting"
+    - "Events happening at the same time by chance"
+    - "A type of scientific experiment"
+    - "A mathematical formula"
+
+- question: "Mother said that morally, the other school may have gone over the line. What does 'morally' relate to?"
+  answer: "Principles of right and wrong"
+  choices:
+    - "How much money something costs"
+    - "Principles of right and wrong"
+    - "The speed of a vehicle"
+    - "The color of the sky"
+
+- question: "Akriti felt that SIS couldn't have orchestrated the fire from outside. What does 'orchestrated' mean?"
+  answer: "Planned or coordinated"
+  choices:
+    - "Played in a band"
+    - "Planned or coordinated"
+    - "Watched from a distance"
+    - "Tried to stop"
+
+- question: "Aditya said the person must have been in the vicinity of the lab. Where were they?"
+  answer: "In the nearby area"
+  choices:
+    - "In a different city"
+    - "On the roof of the building"
+    - "In the nearby area"
+    - "Underground"
+
+- question: "Kabir mentioned a lead that seemed far-fetched. What does 'far-fetched' mean?"
+  answer: "Unlikely to be true"
+  choices:
+    - "Very easy to believe"
+    - "Brought from a long distance"
+    - "Unlikely to be true"
+    - "Already proven by facts"
+
+- question: "The gaunt Rehamat Chacha was everyone's favorite. What does 'gaunt' mean?"
+  answer: "Very thin, especially from hunger or age"
+  choices:
+    - "Very tall and muscular"
+    - "Always wearing a hat"
+    - "Very thin, especially from hunger or age"
+    - "Extremely loud and funny"
+
+- question: "Akriti found the suggestion that Rehamat Chacha was guilty outlandish. What does 'outlandish' mean?"
+  answer: "Looking or sounding bizarre or strange"
+  choices:
+    - "Looking or sounding bizarre or strange"
+    - "Very sensible and logical"
+    - "Common and ordinary"
+    - "Related to the countryside"
+
+- question: "Sister Maria Leena looked visibly worried outside the lab. How did she look?"
+  answer: "In a way that is easily seen"
+  choices:
+    - "Hidden from view"
+    - "In a way that is easily seen"
+    - "Totally relaxed"
+    - "Wearing a mask"
+
+- question: "Aditya craned his neck to look back at Akriti. What did he do?"
+  answer: "Stretched his neck to see better"
+  choices:
+    - "Hid his face in his hands"
+    - "Stretched his neck to see better"
+    - "Turned his whole body around"
+    - "Closed his eyes tightly"
+
+- question: "Pandey Sir said it was unfortunate that the fire happened in his lab. What does 'unfortunate' mean?"
+  answer: "Unlucky or regrettable"
+  choices:
+    - "Very lucky and happy"
+    - "Unlucky or regrettable"
+    - "Planned in advance"
+    - "Common and expected"
+
+- question: "Akriti didn't probe further into Chacha's story. What did she not do?"
+  answer: "Seek more information or ask deep questions"
+  choices:
+    - "Listen to the story"
+    - "Seek more information or ask deep questions"
+    - "Clean the science lab"
+    - "Go to the hospital"
+
+- question: "Aditya inferred that people are willing to do anything for family. What did he do?"
+  answer: "Concluded something from evidence"
+  choices:
+    - "Told a lie"
+    - "Concluded something from evidence"
+    - "Asked a teacher for help"
+    - "Read a book out loud"
+
+- question: "The school lunch room was a cacophony of sound. What was it like?"
+  answer: "A harsh mixture of loud noises"
+  choices:
+    - "A very quiet place"
+    - "A harsh mixture of loud noises"
+    - "A place where people sing beautifully"
+    - "A room full of pleasant smells"
+
+- question: "The twins sat on the most coveted stools in the pantry. What does 'coveted' mean?"
+  answer: "Greatly desired by many"
+  choices:
+    - "Broken and uncomfortable"
+    - "Greatly desired by many"
+    - "Painted a bright green color"
+    - "Reserved for teachers only"
+
+- question: "Pandey Sir presumed he was alone in the washroom. What did he do?"
+  answer: "Supposed something was true without proof"
+  choices:
+    - "Checked every stall"
+    - "Supposed something was true without proof"
+    - "Locked the door behind him"
+    - "Called out for a friend"
+
+- question: "Aditya implored Kabir to stop acting pricey. What did he do?"
+  answer: "Begged someone earnestly"
+  choices:
+    - "Gave someone money"
+    - "Begged someone earnestly"
+    - "Shouted angrily"
+    - "Laughed at a joke"
+
+- question: "They stood in the lane adjacent to a large bungalow. Where was the lane?"
+  answer: "Next to or adjoining"
+  choices:
+    - "Far away from"
+    - "Next to or adjoining"
+    - "Inside the building"
+    - "Above the garage"
+
+- question: "Aditya was getting more anxious as it got dark. How did he feel?"
+  answer: "Worried or uneasy"
+  choices:
+    - "Very tired and sleepy"
+    - "Worried or uneasy"
+    - "Excited for a party"
+    - "Strong and brave"
+
+- question: "Kabir spoke sombrely about the SIS envelope. How did he speak?"
+  answer: "In a serious and sad manner"
+  choices:
+    - "In a high, squeaky voice"
+    - "In a serious and sad manner"
+    - "While eating a sandwich"
+    - "Very quickly and happily"
+
+- question: "Akriti wondered why anyone would try to discredit the school. What does 'discredit' mean?"
+  answer: "To harm the good reputation of"
+  choices:
+    - "To give someone money"
+    - "To harm the good reputation of"
+    - "To clean a classroom"
+    - "To build a new library"
+
+- question: "Chief Walia had a diminutive frame. What does 'diminutive' mean?"
+  answer: "Unusually small"
+  choices:
+    - "Very large and scary"
+    - "Unusually small"
+    - "Brightly colored"
+    - "Strong and muscular"
+
+- question: "Aditya's tone toward his grandfather bordered on ridicule. What does 'ridicule' mean?"
+  answer: "The subjection of someone to mockery"
+  choices:
+    - "Great respect and love"
+    - "The subjection of someone to mockery"
+    - "A quiet whisper"
+    - "A friendly greeting"
+
+- question: "Sister Leena was paranoid about safety. What does 'paranoid' mean here?"
+  answer: "Having an obsessive or irrational worry"
+  choices:
+    - "Not caring at all"
+    - "Having an obsessive or irrational worry"
+    - "Very well-informed"
+    - "Always telling jokes"
+
+- question: "Inspector Gomez asked menacingly about the fire. How did he ask?"
+  answer: "In a threatening way"
+  choices:
+    - "In a threatening way"
+    - "With a kind smile"
+    - "Very quietly"
+    - "While dancing"
+
+- question: "Inspector Gomez hadn't regained his composure after his fall. What is 'composure'?"
+  answer: "The state of being calm and in control"
+  choices:
+    - "His lost eyeglasses"
+    - "The state of being calm and in control"
+    - "His heavy briefcase"
+    - "His memory of the event"
