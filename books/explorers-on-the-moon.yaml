@@ -1,0 +1,199 @@
+- question: "Calculus said a mistake in calculations would be **appalling**. How would it be?"
+  answer: "Very bad or shocking"
+  choices: [ "Very bad or shocking", "Exciting and fun", "Quick and easy", "Small and quiet"]
+
+- question: "The wireless masts stand **sentinel** in the night sky. What are they doing?"
+  answer: "Standing as guards"
+  choices: [ "Falling down", "Standing as guards", "Making loud noises", "Growing like trees"]
+
+- question: "Tintin said he was well and truly **knocked out** after the launch. What happened to him?"
+  answer: "He was made unconscious"
+  choices: [ "He was very happy", "He was made unconscious", "He started to dance", "He was very hungry"]
+
+- question: "The Captain claimed the trip was nothing but **jiggery-pokery**. What did he mean?"
+  answer: "Deceitful or dishonest behavior"
+  choices: [ "Scientific progress", "Deceitful or dishonest behavior", "A delicious meal", "A type of dance"]
+
+- question: "Haddock called the situation **hocus-pocus**. What was he implying?"
+  answer: "It was nonsense or a trick"
+  choices: [ "It was very serious", "It was nonsense or a trick", "It was a magic show", "It was a complex math problem"]
+
+- question: "Haddock asked where the Thompsons had **sprung** from. What did they do?"
+  answer: "Appeared suddenly"
+  choices: [ "Fell from the ceiling", "Appeared suddenly", "Ran away quickly", "Started to sing"]
+
+- question: "Tintin noted their **velocity** was 6.9 miles per second. What was he measuring?"
+  answer: "Speed in a specific direction"
+  choices: [ "Their total weight", "The temperature", "Speed in a specific direction", "The amount of oxygen"]
+
+- question: "The rocket sent **sensational** news back to Earth. How was the news described?"
+  answer: "Very exciting or unexpected"
+  choices: [ "Boring and common", "Very exciting or unexpected", "Sad and depressing", "Fake and made up"]
+
+- question: "The presence of extra passengers created a **grave** problem. What kind of problem was it?"
+  answer: "A very serious one"
+  choices: [ "A funny mistake", "A very serious one", "A small issue", "A problem in a cemetery"]
+
+- question: "Haddock told the others to stop **snivelling**. What were they doing?"
+  answer: "Crying or complaining in an annoying way"
+  choices: [ "Laughing loudly", "Crying or complaining in an annoying way", "Eating too fast", "Sleeping soundly"]
+
+- question: "Haddock wanted to throw them overboard without any more **ado**. What did he want to avoid?"
+  answer: "Further fuss or delay"
+  choices: [ "Fresh air", "Further fuss or delay", "Scientific equipment", "Taking a nap"]
+
+- question: "Calculus asked Tintin to look into the **stroboscopic** periscope. What is this device used for?"
+  answer: "Studying objects in periodic motion"
+  choices: [ "Cooking food", "Studying objects in periodic motion", "Measuring distance to stars", "Hearing distant sounds"]
+
+- question: "Haddock asked the others to do him a **favour** and leave. What was he asking for?"
+  answer: "A small helpful act"
+  choices: [ "A large sum of money", "A small helpful act", "A secret password", "A physical fight"]
+
+- question: "The Thompsons thought the Moon looked **riddled** with holes. What did it look like?"
+  answer: "Full of many small holes"
+  choices: [ "Smooth and shiny", "Full of many small holes", "Covered in green cheese", "Very bright and glowing"]
+
+- question: "Haddock exclaimed 'Goodness **gracious**!' when his whisky acted strangely. Why did he say this?"
+  answer: "To express surprise"
+  choices: [ "To ask for help", "To express surprise", "To say goodbye", "To tell a joke"]
+
+- question: "Haddock complained that **decent** whisky shouldn't behave that way. What did he mean by 'decent'?"
+  answer: "Of an acceptable or good quality"
+  choices: [ "Very expensive", "Of an acceptable or good quality", "Extremely old", "Clear like water"]
+
+- question: "The rocket’s acceleration created a sort of **artificial** gravity. What does 'artificial' mean?"
+  answer: "Not natural; made by human skill"
+  choices: [ "Extremely strong", "Not natural; made by human skill", "Invisible to the eye", "Very dangerous"]
+
+- question: "The asteroid Adonis **orbits** between Mars and Jupiter. What does it do?"
+  answer: "Moves in a curved path around something"
+  choices: [ "Stays perfectly still", "Moves in a curved path around something", "Explodes frequently", "Shines brighter than the sun"]
+
+- question: "Tintin thought the situation was **fantastic**. How did he feel about it?"
+  answer: "It was extraordinary or imaginative"
+  choices: [ "It was very scary", "It was extraordinary or imaginative", "It was quite boring", "It was very loud"]
+
+- question: "Haddock refused to get back on the **beastly** rocket. How did he feel about the rocket?"
+  answer: "He found it very unpleasant"
+  choices: [ "He thought it looked like an animal", "He found it very unpleasant", "He thought it was very fast", "He found it beautiful"]
+
+- question: "The rocket has a **retractable** ladder. What can this ladder do?"
+  answer: "Be drawn back or in"
+  choices: [ "Break easily", "Be drawn back or in", "Change colors", "Grow longer automatically"]
+
+- question: "Tintin needed to anchor himself **securely**. How did he need to do it?"
+  answer: "In a safe and firm manner"
+  choices: [ "Very quickly", "In a safe and firm manner", "With a loud noise", "Using only one hand"]
+
+- question: "Tintin used the ladder to **anchor** himself. What was his goal?"
+  answer: "To fix himself firmly in position"
+  choices: [ "To climb higher", "To fix himself firmly in position", "To jump into space", "To hide from the Captain"]
+
+- question: "Tintin felt a terrific **jolt** when the motor started. What did he experience?"
+  answer: "A sudden jar or shake"
+  choices: [ "A flash of light", "A sudden jar or shake", "A feeling of cold", "A loud whistle"]
+
+- question: "Haddock said he would **shear** the Thompsons' long hair. What was he going to do?"
+  answer: "Cut it off"
+  choices: [ "Wash it with soap", "Cut it off", "Brush it neatly", "Dye it a new color"]
+
+- question: "The radar sent a **signal** about a meteorite. What is a 'signal'?"
+  answer: "A message or sign"
+  choices: [ "A loud explosion", "A message or sign", "A bright light", "A piece of rock"]
+
+- question: "Calculus feared they would be **pulverised** by a collision. What would happen to them?"
+  answer: "Smashed into tiny pieces"
+  choices: [ "Turned into ice", "Smashed into tiny pieces", "Thrown off course", "Made very famous"]
+
+- question: "Calculus was worried they would be smashed to **smithereens**. What are 'smithereens'?"
+  answer: "Small fragments or pieces"
+  choices: [ "Large heavy rocks", "Small fragments or pieces", "Shiny gold coins", "Soft fluffy clouds"]
+
+- question: "Haddock spoke of the Thompsons' **esteemed** friend. What does 'esteemed' mean?"
+  answer: "Highly respected"
+  choices: [ "Very old", "Highly respected", "Quite tall", "Often angry"]
+
+- question: "Haddock told Calculus he looked more **dignified** than before. How did he look?"
+  answer: "Composed and serious"
+  choices: [ "Messy and dirty", "Composed and serious", "Funny and silly", "Scared and shaking"]
+
+- question: "Calculus mentioned a turning **manoeuvre**. What is a 'manoeuvre'?"
+  answer: "A skilled movement"
+  choices: [ "A type of fuel", "A skilled movement", "A secret plan", "A heavy tool"]
+
+- question: "The motor would brake their **descent** to the Moon. What is a 'descent'?"
+  answer: "A movement downward"
+  choices: [ "A fast takeoff", "A movement downward", "A long journey", "A scientific test"]
+
+- question: "The Earth reported they were on the **estimated** course. What does 'estimated' mean?"
+  answer: "Roughly calculated"
+  choices: [ "Perfectly straight", "Roughly calculated", "Completely wrong", "Very expensive"]
+
+- question: "Calculus explained that 'Lunar Seas' was an **ancient** name. How old is the name?"
+  answer: "From the very distant past"
+  choices: [ "Brand new", "From the very distant past", "A few years old", "Created yesterday"]
+
+- question: "Craters are high-walled **depressions** on the Moon. What are 'depressions' in this context?"
+  answer: "Sunken places or hollows"
+  choices: [ "Feelings of sadness", "Sunken places or hollows", "Large mountains", "Bright spots"]
+
+- question: "The Thompsons felt **insulted** by Haddock. How were they treated?"
+  answer: "With disrespect or scorn"
+  choices: [ "With great kindness", "With disrespect or scorn", "Like famous heroes", "As if they were invisible"]
+
+- question: "The detectives demanded an **apology**. What were they asking for?"
+  answer: "An expression of regret for an offense"
+  choices: [ "A gift of money", "An expression of regret for an offense", "A new set of clothes", "A chance to leave"]
+
+- question: "Calculus warned they were in **mortal** peril. What kind of peril was it?"
+  answer: "Deadly or fatal"
+  choices: [ "Small and unimportant", "Deadly or fatal", "Exciting and fun", "Easy to escape"]
+
+- question: "The crew was in mortal **peril**. What were they facing?"
+  answer: "Serious and immediate danger"
+  choices: [ "A rainy day", "Serious and immediate danger", "A large crowd", "A new adventure"]
+
+- question: "Haddock warned that Calculus might **maroon** someone. What would he do?"
+  answer: "Leave them trapped in an isolated place"
+  choices: [ "Give them a prize", "Leave them trapped in an isolated place", "Take them home", "Teach them a lesson"]
+
+- question: "Calculus called the moment **tremendous**. How did he describe it?"
+  answer: "Great in scale or intensity"
+  choices: [ "Very quiet", "Great in scale or intensity", "Quite disappointing", "Small and quick"]
+
+- question: "The rocket began **slackening** its speed. What was happening?"
+  answer: "Slowing down"
+  choices: [ "Speeding up", "Slowing down", "Turning around", "Stopping completely"]
+
+- question: "The crew felt an **intolerable** weight. What was the weight like?"
+  answer: "Too much to be endured"
+  choices: [ "Very light", "Too much to be endured", "Easy to carry", "Warm and cozy"]
+
+- question: "Tintin described the first step on the Moon as a **solemn** moment. What was the mood?"
+  answer: "Formal and dignified"
+  choices: [ "Silly and loud", "Formal and dignified", "Angry and tense", "Fast and frantic"]
+
+- question: "The lunar landscape was horrifying in its **desolation**. What characterized it?"
+  answer: "Complete emptiness and lack of life"
+  choices: [ "Crowded streets", "Complete emptiness and lack of life", "Beautiful forests", "Many rivers"]
+
+- question: "The crew was ready to **disembark** from the rocket. What were they doing?"
+  answer: "Leaving the vehicle"
+  choices: [ "Fixing the engine", "Leaving the vehicle", "Going to sleep", "Eating lunch"]
+
+- question: "Exploding meteorites were called an **occupational hazard**. What is that?"
+  answer: "A risk typical of a certain job"
+  choices: [ "A lucky break", "A risk typical of a certain job", "A rare event", "A secret mission"]
+
+- question: "The crew spent hours **discharging** the cargo. What were they doing?"
+  answer: "Unloading it"
+  choices: [ "Buying it", "Unloading it", "Counting it", "Painting it"]
+
+- question: "They needed to unload the **reconnaissance** tank. What was the tank for?"
+  answer: "Exploration and observation"
+  choices: [ "Storing water", "Exploration and observation", "Cooking meals", "Fighting wars"]
+
+- question: "The wires were worn through by **friction**. What caused the wear?"
+  answer: "The resistance of one surface rubbing against another"
+  choices: [ "Extremely cold air", "The resistance of one surface rubbing against another", "Sharp teeth", "Old age"]
