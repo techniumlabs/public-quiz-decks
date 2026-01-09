@@ -1,399 +1,614 @@
-- question: "Aditya was the elder of the twins by virtue of being born a couple of minutes before Akriti. What does 'virtue' mean in this context?"
-  answer: "Because of or as a result of"
-  choices:
-    - "In spite of"
-    - "Because of or as a result of"
-    - "Against the rules of"
-    - "While dreaming of"
+meta:
+  name: "Mystery of the school on fire"
+  tags: ["words"]
+cards:
+  - question: "Aditya was the elder of the twins by virtue of being born first [1]. What does 'virtue' mean in this context?"
+    answer: "Because of or as a result of"
+    choices:
+      [
+        "Against the rules of",
+        "Because of or as a result of",
+        "In spite of",
+        "While dreaming of",
+      ]
+  - question: "Which word from the text means 'because of or as a result of' [1]?"
+    answer: "Virtue"
+    choices: ["Virtue", "Lament", "Sabotage", "Mishap"]
 
-- question: "Kabir's large glasses made him look studious, though he was the opposite. What does 'studious' mean?"
-  answer: "Spending a lot of time studying or reading"
-  choices:
-    - "Very lazy and sleepy"
-    - "Spending a lot of time studying or reading"
-    - "Good at playing football"
-    - "Likely to get into trouble"
+  - question: "Kabir's glasses made him look studious, though he was the opposite [2]. What does 'studious' mean?"
+    answer: "Spending a lot of time studying or reading"
+    choices:
+      [
+        "Lazy and sleepy",
+        "Good at sports",
+        "Spending a lot of time studying or reading",
+        "Very loud",
+      ]
+  - question: "Which word describes someone who appears to spend a lot of time reading or studying [2]?"
+    answer: "Studious"
+    choices: ["Gaunt", "Studious", "Lethargic", "Anxious"]
 
-- question: "Sacred Heart was one of the most renowned schools in Solan. What does 'renowned' mean?"
-  answer: "Famous or well-known"
-  choices:
-    - "Completely unknown"
-    - "Famous or well-known"
-    - "Very small and dirty"
-    - "Recently built"
+  - question: "Sacred Heart was one of the most renowned schools in Solan [3]. What does 'renowned' mean?"
+    answer: "Famous or well-known"
+    choices:
+      [
+        "Completely unknown",
+        "Famous or well-known",
+        "Newly built",
+        "Very small",
+      ]
+  - question: "Which term is used to describe a school that is famous and well-regarded [3]?"
+    answer: "Renowned"
+    choices: ["Picturesque", "Imposing", "Renowned", "Diminutive"]
 
-- question: "Solan was described as a picturesque town at the foothills of the Himalayas. What does 'picturesque' mean?"
-  answer: "Visually attractive or pretty"
-  choices:
-    - "Visually attractive or pretty"
-    - "Full of tall skyscrapers"
-    - "Very loud and crowded"
-    - "Difficult to find on a map"
+  - question: "Solan was described as a picturesque town [3]. What does 'picturesque' mean?"
+    answer: "Visually attractive or pretty"
+    choices:
+      [
+        "Dirty and crowded",
+        "Visually attractive or pretty",
+        "Very expensive",
+        "Hard to find",
+      ]
+  - question: "If a town is described as visually attractive, especially in a quaint way, it is called [3]:"
+    answer: "Picturesque"
+    choices: ["Picturesque", "Studious", "Gaunt", "Crimson"]
 
-- question: "Lack of work had made the city police rusty and lethargic. How did the police feel?"
-  answer: "Lazy and lacking energy"
-  choices:
-    - "Excited and energetic"
-    - "Lazy and lacking energy"
-    - "Angry and violent"
-    - "Smart and quick-thinking"
+  - question: "Lack of work had made the city police rusty and lethargic [3]. How did the police feel?"
+    answer: "Lazy and lacking energy"
+    choices:
+      [
+        "Excited and energetic",
+        "Lazy and lacking energy",
+        "Angry and violent",
+        "Quick-thinking",
+      ]
+  - question: "Which word describes a state of being lazy, sluggish, or lacking energy [3]?"
+    answer: "Lethargic"
+    choices: ["Agitated", "Lethargic", "Unruffled", "Intense"]
 
-- question: "Sister Maria Leena was a stickler for discipline. What does this say about her?"
-  answer: "She insisted on perfection in behavior"
-  choices:
-    - "She did not care about rules"
-    - "She was often late for school"
-    - "She insisted on perfection in behavior"
-    - "She liked to give out candy"
+  - question: "Sister Maria Leena was a stickler for discipline [4]. What does this mean?"
+    answer: "She insisted on perfection in behavior"
+    choices:
+      [
+        "She ignored the rules",
+        "She insisted on perfection in behavior",
+        "She was very messy",
+        "She was often late",
+      ]
+  - question: "A person who insists on a certain quality or type of behavior is a [4]:"
+    answer: "Stickler"
+    choices: ["Stickler", "Portal", "Lament", "Sleuth"]
 
-- question: "Families in Solan had been through the portals of the school for years. What are 'portals'?"
-  answer: "Doorways or entrances"
-  choices:
-    - "Computer screens"
-    - "Hidden tunnels"
-    - "Doorways or entrances"
-    - "School buses"
+  - question: "Families had been through the portals of the school for years [4]. What are 'portals'?"
+    answer: "Doorways or entrances"
+    choices:
+      [
+        "School buses",
+        "Computer screens",
+        "Doorways or entrances",
+        "Playgrounds",
+      ]
+  - question: "A grand or large entrance or doorway can be referred to as a [4]:"
+    answer: "Portal"
+    choices: ["Amenity", "Portal", "Vicinity", "Bungalow"]
 
-- question: "The post office was described as an imposing brick structure. What does 'imposing' mean?"
-  answer: "Grand and impressive in appearance"
-  choices:
-    - "Small and easy to miss"
-    - "Grand and impressive in appearance"
-    - "Falling apart and ruined"
-    - "Painted in bright neon colors"
+  - question: "The post office was an imposing brick structure [5]. What does 'imposing' mean?"
+    answer: "Grand and impressive in appearance"
+    choices:
+      [
+        "Small and hidden",
+        "Grand and impressive in appearance",
+        "Broken down",
+        "Ugly",
+      ]
+  - question: "Which word describes a building that is grand and impressive [5]?"
+    answer: "Imposing"
+    choices: ["Diminutive", "Imposing", "Picturesque", "Lethargic"]
 
-- question: "Aditya was close enough to hear the postmaster and Sister Leena's lament. What is a 'lament'?"
-  answer: "An expression of grief or disappointment"
-  choices:
-    - "A loud, happy cheer"
-    - "A secret password"
-    - "An expression of grief or disappointment"
-    - "A plan to go on vacation"
+  - question: "Aditya heard the postmaster and Sister Leena's lament [6]. What is a 'lament'?"
+    answer: "An expression of grief or disappointment"
+    choices:
+      [
+        "A happy cheer",
+        "A secret plan",
+        "An expression of grief or disappointment",
+        "A loud song",
+      ]
+  - question: "An expression of sorrow, regret, or disappointment is known as a [6]:"
+    answer: "Lament"
+    choices: ["Lament", "Cacophony", "Quotient", "Mishap"]
 
-- question: "The new school offered modern amenities to its students. What are 'amenities'?"
-  answer: "Useful features or facilities"
-  choices:
-    - "Useful features or facilities"
-    - "Very difficult homework assignments"
-    - "Old, broken desks"
-    - "Strict punishments"
+  - question: "The new school offered modern amenities [7]. What are 'amenities'?"
+    answer: "Useful features or facilities"
+    choices:
+      [
+        "Strict punishments",
+        "Useful features or facilities",
+        "Difficult exams",
+        "Broken windows",
+      ]
+  - question: "Features that provide comfort, convenience, or enjoyment are called [7]:"
+    answer: "Amenities"
+    choices: ["Amenities", "Portals", "Mishaps", "Sticklers"]
 
-- question: "Sister Leena sighed because the coolness quotient of the new school was higher. What does 'quotient' mean here?"
-  answer: "A degree or amount of a quality"
-  choices:
-    - "The price of a uniform"
-    - "A mathematical division result"
-    - "A degree or amount of a quality"
-    - "The name of the principal"
+  - question: "The coolness quotient of the new school was higher [8]. What does 'quotient' mean here?"
+    answer: "A degree or amount of a quality"
+    choices:
+      [
+        "The price of a uniform",
+        "A degree or amount of a quality",
+        "The name of a teacher",
+        "A mathematical error",
+      ]
+  - question: "A word used to describe the degree or amount of a specific quality is [8]:"
+    answer: "Quotient"
+    choices: ["Quotient", "Virtue", "Amenities", "Cacophony"]
 
-- question: "The school planned to refurbish the classrooms and labs for the inspection. What did they do?"
-  answer: "Renovated or redecorated"
-  choices:
-    - "Locked the doors forever"
-    - "Sold the furniture"
-    - "Renovated or redecorated"
-    - "Painted everything black"
+  - question: "The school planned to refurbish the classrooms [9]. What did they do?"
+    answer: "Renovated or redecorated"
+    choices:
+      [
+        "Destroyed the building",
+        "Renovated or redecorated",
+        "Sold the school",
+        "Closed the rooms",
+      ]
+  - question: "To renovate, redecorate, or brighten up a room or building is to [9]:"
+    answer: "Refurbish"
+    choices: ["Probe", "Refurbish", "Defame", "Relent"]
 
-- question: "Sister Leena said the preparation was now a thorough exercise. What does 'thorough' mean?"
-  answer: "Complete and detailed"
-  choices:
-    - "Complete and detailed"
-    - "Quick and careless"
-    - "Only half-finished"
-    - "Very boring"
+  - question: "Sister Leena said the preparation was a thorough exercise [9]. What does 'thorough' mean?"
+    answer: "Complete and detailed"
+    choices:
+      ["Quick and sloppy", "Complete and detailed", "Boring", "Never finished"]
+  - question: "Which word means performing a task with great care and attention to detail [9]?"
+    answer: "Thorough"
+    choices: ["Studious", "Thorough", "Lethargic", "Far-fetched"]
 
-- question: "The sorting room was filled with the sound of choral music from a phone. What is 'choral' music?"
-  answer: "Music sung by a choir or group"
-  choices:
-    - "Music played on a single drum"
-    - "Very loud rock music"
-    - "Music sung by a choir or group"
-    - "The sound of a silent room"
+  - question: "The room was filled with choral music [10]. What is 'choral' music?"
+    answer: "Music sung by a choir or group"
+    choices:
+      [
+        "Loud rock music",
+        "Music sung by a choir or group",
+        "Silence",
+        "Drumming",
+      ]
+  - question: "Music that is performed by a group of singers or a choir is described as [10]:"
+    answer: "Choral"
+    choices: ["Choral", "Intense", "Cacophony", "Sombrely"]
 
-- question: "A very agitated looking Sister Leena returned to the room. How did she feel?"
-  answer: "Feeling troubled or nervous"
-  choices:
-    - "Feeling troubled or nervous"
-    - "Extremely happy and relaxed"
-    - "Very hungry for lunch"
-    - "Ready to go to sleep"
+  - question: "A very agitated Sister Leena returned to the room [10]. How did she feel?"
+    answer: "Feeling troubled or nervous"
+    choices:
+      ["Feeling troubled or nervous", "Happy and relaxed", "Sleepy", "Hungry"]
+  - question: "To feel troubled, nervous, or disturbed is to be [10]:"
+    answer: "Agitated"
+    choices: ["Unruffled", "Agitated", "Renowned", "Gaunt"]
 
-- question: "'In the science lab,' Sister Leena muttered as she left. How did she speak?"
-  answer: "Spoke in a low, quiet voice"
-  choices:
-    - "Yelled at the top of her lungs"
-    - "Sang a happy song"
-    - "Spoke in a low, quiet voice"
-    - "Used sign language"
+  - question: "Sister Leena muttered as she left the room [11]. How did she speak?"
+    answer: "Spoke in a low, quiet voice"
+    choices:
+      [
+        "Screamed loudly",
+        "Spoke in a low, quiet voice",
+        "Sang",
+        "Used a microphone",
+      ]
+  - question: "To speak in a low, quiet, or barely audible way is to [11]:"
+    answer: "Mutter"
+    choices: ["Mutter", "Lament", "Ridicule", "Probe"]
 
-- question: "Sister Leena argued that it only takes one mishap to change a life. What is a 'mishap'?"
-  answer: "An unlucky accident"
-  choices:
-    - "A great piece of luck"
-    - "A birthday party"
-    - "An unlucky accident"
-    - "A graduation ceremony"
+  - question: "Sister Leena argued that it only takes one mishap to change a life [12]. What is a 'mishap'?"
+    answer: "An unlucky accident"
+    choices: ["A lucky break", "An unlucky accident", "A party", "A graduation"]
+  - question: "An unlucky or unfortunate accident is referred to as a [12]:"
+    answer: "Mishap"
+    choices: ["Mishap", "Coincidence", "Sabotage", "Virtue"]
 
-- question: "Sister Leena was sure the fire was an act of sabotage. What does 'sabotage' mean?"
-  answer: "Deliberate destruction or damage"
-  choices:
-    - "A surprise celebration"
-    - "Deliberate destruction or damage"
-    - "A scientific discovery"
-    - "An honest mistake"
+  - question: "Sister Leena was sure the fire was an act of sabotage [13]. What is 'sabotage'?"
+    answer: "Deliberate destruction or damage"
+    choices:
+      [
+        "A mistake",
+        "Deliberate destruction or damage",
+        "An award",
+        "A science project",
+      ]
+  - question: "The act of deliberately destroying or damaging something for an advantage is [13]:"
+    answer: "Sabotage"
+    choices: ["Sabotage", "Mishap", "Amenities", "Probe"]
 
-- question: "Aditya said they would figure out who was trying to defame the school. What does 'defame' mean?"
-  answer: "To damage a reputation"
-  choices:
-    - "To paint a building"
-    - "To damage a reputation"
-    - "To win a prize"
-    - "To join a club"
+  - question: "Aditya said they would find who was trying to defame the school [14]. What does 'defame' mean?"
+    answer: "To damage a reputation"
+    choices:
+      [
+        "To paint a wall",
+        "To damage a reputation",
+        "To help a friend",
+        "To win a game",
+      ]
+  - question: "To damage the good reputation of someone or something is to [14]:"
+    answer: "Defame"
+    choices: ["Defame", "Discredit", "Refurbish", "Relent"]
 
-- question: "Grandpa would often have the most intense conversations at breakfast. What does 'intense' mean?"
-  answer: "Having great focus or strong feelings"
-  choices:
-    - "Very quiet and silly"
-    - "Having great focus or strong feelings"
-    - "Short and unimportant"
-    - "Related to the weather"
+  - question: "Grandpa had the most intense conversations at breakfast [14]. What does 'intense' mean?"
+    answer: "Having great focus or strong feelings"
+    choices:
+      [
+        "Short and silly",
+        "Having great focus or strong feelings",
+        "Very quiet",
+        "About the weather",
+      ]
+  - question: "A conversation or feeling characterized by extreme force, degree, or amount is [14]:"
+    answer: "Intense"
+    choices: ["Intense", "Sombrely", "Lethargic", "Unruffled"]
 
-- question: "The twins protested so wildly that their parents had to relent. What did the parents do?"
-  answer: "Finally gave in or agreed"
-  choices:
-    - "Finally gave in or agreed"
-    - "Became even more strict"
-    - "Forgot what they were talking about"
-    - "Left the house in anger"
+  - question: "The twins' parents had to relent after they protested [15]. What did the parents do?"
+    answer: "Finally gave in or agreed"
+    choices:
+      [
+        "Became more angry",
+        "Finally gave in or agreed",
+        "Left the room",
+        "Told a joke",
+      ]
+  - question: "To abandon a harsh intention or finally give in to a request is to [15]:"
+    answer: "Relent"
+    choices: ["Relent", "Refurbish", "Probe", "Mutter"]
 
-- question: "The advertisement for the new school had a cheeky tagline. What does 'cheeky' mean?"
-  answer: "Bold and slightly disrespectful in a funny way"
-  choices:
-    - "Very sad and serious"
-    - "Bold and slightly disrespectful in a funny way"
-    - "Written in a foreign language"
-    - "Impossible to read"
+  - question: "The advertisement had a cheeky tagline [16]. What does 'cheeky' mean?"
+    answer: "Bold and slightly disrespectful in a funny way"
+    choices:
+      [
+        "Sad and serious",
+        "Bold and slightly disrespectful in a funny way",
+        "Impossible to read",
+        "Very polite",
+      ]
+  - question: "Behavior that is impudent or bold, often in an amusing or disrespectful way, is [16]:"
+    answer: "Cheeky"
+    choices: ["Cheeky", "Studious", "Menacingly", "Sombrely"]
 
-- question: "The twins' faces turned a deep crimson when they saw the ad. What color did they turn?"
-  answer: "Deep red"
-  choices:
-    - "Bright yellow"
-    - "Pale white"
-    - "Deep red"
-    - "Ocean blue"
+  - question: "The twins' faces turned a deep crimson [16]. What color is 'crimson'?"
+    answer: "Deep red"
+    choices: ["Bright blue", "Deep red", "Pale yellow", "Forest green"]
+  - question: "A deep, rich red color is known as [16]:"
+    answer: "Crimson"
+    choices: ["Crimson", "Visibly", "Picturesque", "Imposing"]
 
-- question: "Their mother managed to remain unruffled always. How did she feel?"
-  answer: "Calm and not upset"
-  choices:
-    - "Very messy and confused"
-    - "Calm and not upset"
-    - "Constantly shouting"
-    - "Always in a hurry"
+  - question: "Their mother managed to remain unruffled always [17]. How did she feel?"
+    answer: "Calm and not upset"
+    choices: ["Very messy", "Calm and not upset", "Loud and angry", "In a rush"]
+  - question: "To remain calm and not be agitated or upset is to be [17]:"
+    answer: "Unruffled"
+    choices: ["Unruffled", "Agitated", "Anxious", "Intense"]
 
-- question: "Their mother seldom got angry with the children. How often did it happen?"
-  answer: "Not often; rarely"
-  choices:
-    - "Every single day"
-    - "Not often; rarely"
-    - "Only on weekends"
-    - "Once every hour"
+  - question: "Their mother seldom got angry with them [17]. How often is 'seldom'?"
+    answer: "Not often; rarely"
+    choices: ["Every day", "Not often; rarely", "Once a year", "Always"]
+  - question: "Which word describes something that happens rarely or not very often [17]?"
+    answer: "Seldom"
+    choices: ["Seldom", "Thorough", "Visibly", "Renowned"]
 
-- question: "Mother noted that the tagline could not have been a coincidence. What is a 'coincidence'?"
-  answer: "Events happening at the same time by chance"
-  choices:
-    - "A planned meeting"
-    - "Events happening at the same time by chance"
-    - "A type of scientific experiment"
-    - "A mathematical formula"
+  - question: "The tagline could not have been a coincidence [18]. What is a 'coincidence'?"
+    answer: "Events happening at the same time by chance"
+    choices:
+      [
+        "A planned event",
+        "Events happening at the same time by chance",
+        "A scientific law",
+        "A math problem",
+      ]
+  - question: "A remarkable concurrence of events or circumstances without apparent causal connection is a [18]:"
+    answer: "Coincidence"
+    choices: ["Coincidence", "Mishap", "Sabotage", "Lead"]
 
-- question: "Mother said that morally, the other school may have gone over the line. What does 'morally' relate to?"
-  answer: "Principles of right and wrong"
-  choices:
-    - "How much money something costs"
-    - "Principles of right and wrong"
-    - "The speed of a vehicle"
-    - "The color of the sky"
+  - question: "Morally, the other school may have gone over the line [18]. What does 'morally' relate to?"
+    answer: "Principles of right and wrong"
+    choices:
+      [
+        "The cost of items",
+        "Principles of right and wrong",
+        "The speed of a car",
+        "The weather",
+      ]
+  - question: "Which term relates to the principles of right and wrong behavior [18]?"
+    answer: "Morally"
+    choices: ["Morally", "Studious", "Picturesque", "Intense"]
 
-- question: "Akriti felt that SIS couldn't have orchestrated the fire from outside. What does 'orchestrated' mean?"
-  answer: "Planned or coordinated"
-  choices:
-    - "Played in a band"
-    - "Planned or coordinated"
-    - "Watched from a distance"
-    - "Tried to stop"
+  - question: "Akriti felt the fire wasn't orchestrated from outside [19]. What does 'orchestrated' mean?"
+    answer: "Planned or coordinated"
+    choices:
+      [
+        "Played on an instrument",
+        "Planned or coordinated",
+        "Watched secretly",
+        "Canceled",
+      ]
+  - question: "To arrange or direct the elements of a complex situation or event is to [19]:"
+    answer: "Orchestrate"
+    choices: ["Orchestrate", "Sabotage", "Probe", "Refurbish"]
 
-- question: "Aditya said the person must have been in the vicinity of the lab. Where were they?"
-  answer: "In the nearby area"
-  choices:
-    - "In a different city"
-    - "On the roof of the building"
-    - "In the nearby area"
-    - "Underground"
+  - question: "The person must have been in the vicinity of the lab [20]. Where were they?"
+    answer: "In the nearby area"
+    choices:
+      [
+        "In another city",
+        "In the nearby area",
+        "On the moon",
+        "Under the floor",
+      ]
+  - question: "The area near or surrounding a particular place is called the [20]:"
+    answer: "Vicinity"
+    choices: ["Vicinity", "Portal", "Bungalow", "Amenity"]
 
-- question: "Kabir mentioned a lead that seemed far-fetched. What does 'far-fetched' mean?"
-  answer: "Unlikely to be true"
-  choices:
-    - "Very easy to believe"
-    - "Brought from a long distance"
-    - "Unlikely to be true"
-    - "Already proven by facts"
+  - question: "Kabir mentioned a lead that seemed far-fetched [21]. What does 'far-fetched' mean?"
+    answer: "Unlikely to be true"
+    choices:
+      [
+        "Very easy to believe",
+        "Unlikely to be true",
+        "Brought from far away",
+        "Already proven",
+      ]
+  - question: "A story or explanation that is highly imaginative and unlikely to be true is [21]:"
+    answer: "Far-fetched"
+    choices: ["Far-fetched", "Thorough", "Studious", "Renowned"]
 
-- question: "The gaunt Rehamat Chacha was everyone's favorite. What does 'gaunt' mean?"
-  answer: "Very thin, especially from hunger or age"
-  choices:
-    - "Very tall and muscular"
-    - "Always wearing a hat"
-    - "Very thin, especially from hunger or age"
-    - "Extremely loud and funny"
+  - question: "The gaunt Rehamat Chacha was everyone's favorite [22]. What does 'gaunt' mean?"
+    answer: "Very thin, especially from hunger or age"
+    choices:
+      [
+        "Very tall and strong",
+        "Always smiling",
+        "Very thin, especially from hunger or age",
+        "Loud",
+      ]
+  - question: "A person who is lean and haggard, often because of suffering or age, is [22]:"
+    answer: "Gaunt"
+    choices: ["Gaunt", "Diminutive", "Imposing", "Picturesque"]
 
-- question: "Akriti found the suggestion that Rehamat Chacha was guilty outlandish. What does 'outlandish' mean?"
-  answer: "Looking or sounding bizarre or strange"
-  choices:
-    - "Looking or sounding bizarre or strange"
-    - "Very sensible and logical"
-    - "Common and ordinary"
-    - "Related to the countryside"
+  - question: "Akriti found the suggestion outlandish [23]. What does 'outlandish' mean?"
+    answer: "Looking or sounding bizarre or strange"
+    choices:
+      [
+        "Common and normal",
+        "Looking or sounding bizarre or strange",
+        "Very smart",
+        "Related to the woods",
+      ]
+  - question: "Something that is bizarre, strange, or extremely unusual is [23]:"
+    answer: "Outlandish"
+    choices: ["Outlandish", "Renowned", "Picturesque", "Thorough"]
 
-- question: "Sister Maria Leena looked visibly worried outside the lab. How did she look?"
-  answer: "In a way that is easily seen"
-  choices:
-    - "Hidden from view"
-    - "In a way that is easily seen"
-    - "Totally relaxed"
-    - "Wearing a mask"
+  - question: "Sister Leena looked visibly worried [24]. How did she look?"
+    answer: "In a way that is easily seen"
+    choices:
+      [
+        "Hidden and secret",
+        "In a way that is easily seen",
+        "Very happy",
+        "Completely normal",
+      ]
+  - question: "If something can be easily seen or perceived, it is happening [24]:"
+    answer: "Visibly"
+    choices: ["Visibly", "Seldom", "Sombrely", "Menacingly"]
 
-- question: "Aditya craned his neck to look back at Akriti. What did he do?"
-  answer: "Stretched his neck to see better"
-  choices:
-    - "Hid his face in his hands"
-    - "Stretched his neck to see better"
-    - "Turned his whole body around"
-    - "Closed his eyes tightly"
+  - question: "Aditya craned his neck to see Akriti [25]. What did he do?"
+    answer: "Stretched his neck to see better"
+    choices:
+      [
+        "Hid his face",
+        "Stretched his neck to see better",
+        "Turned his whole body",
+        "Closed his eyes",
+      ]
+  - question: "To stretch out one's neck in order to see something better is to [25]:"
+    answer: "Crane"
+    choices: ["Crane", "Mutter", "Relent", "Probe"]
 
-- question: "Pandey Sir said it was unfortunate that the fire happened in his lab. What does 'unfortunate' mean?"
-  answer: "Unlucky or regrettable"
-  choices:
-    - "Very lucky and happy"
-    - "Unlucky or regrettable"
-    - "Planned in advance"
-    - "Common and expected"
+  - question: "Pandey Sir said the fire was unfortunate [26]. What does 'unfortunate' mean?"
+    answer: "Unlucky or regrettable"
+    choices:
+      [
+        "Happy and planned",
+        "Unlucky or regrettable",
+        "Very expensive",
+        "Common",
+      ]
+  - question: "An event that is unlucky or worthy of regret is described as [26]:"
+    answer: "Unfortunate"
+    choices: ["Unfortunate", "Studious", "Intense", "Renowned"]
 
-- question: "Akriti didn't probe further into Chacha's story. What did she not do?"
-  answer: "Seek more information or ask deep questions"
-  choices:
-    - "Listen to the story"
-    - "Seek more information or ask deep questions"
-    - "Clean the science lab"
-    - "Go to the hospital"
+  - question: "Akriti didn't probe further into Chacha's story [27]. What did she not do?"
+    answer: "Seek more information or ask deep questions"
+    choices:
+      [
+        "Listen to him",
+        "Seek more information or ask deep questions",
+        "Tell him to go away",
+        "Laugh",
+      ]
+  - question: "To physically or verbally explore or examine something closely is to [27]:"
+    answer: "Probe"
+    choices: ["Probe", "Refurbish", "Relent", "Mutter"]
 
-- question: "Aditya inferred that people are willing to do anything for family. What did he do?"
-  answer: "Concluded something from evidence"
-  choices:
-    - "Told a lie"
-    - "Concluded something from evidence"
-    - "Asked a teacher for help"
-    - "Read a book out loud"
+  - question: "Aditya inferred that people do anything for family [28]. What did he do?"
+    answer: "Concluded something from evidence"
+    choices:
+      [
+        "Told a lie",
+        "Concluded something from evidence",
+        "Asked for a hug",
+        "Forgot the story",
+      ]
+  - question: "To deduce or conclude information from evidence and reasoning is to [28]:"
+    answer: "Infer"
+    choices: ["Infer", "Mutter", "Orchestrate", "Defame"]
 
-- question: "The school lunch room was a cacophony of sound. What was it like?"
-  answer: "A harsh mixture of loud noises"
-  choices:
-    - "A very quiet place"
-    - "A harsh mixture of loud noises"
-    - "A place where people sing beautifully"
-    - "A room full of pleasant smells"
+  - question: "The lunch room was a cacophony of sound [29]. What was it like?"
+    answer: "A harsh mixture of loud noises"
+    choices:
+      [
+        "A quiet library",
+        "A harsh mixture of loud noises",
+        "A beautiful song",
+        "Smelly",
+      ]
+  - question: "A harsh, discordant mixture of sounds is called a [29]:"
+    answer: "Cacophony"
+    choices: ["Cacophony", "Quotient", "Amenities", "Portals"]
 
-- question: "The twins sat on the most coveted stools in the pantry. What does 'coveted' mean?"
-  answer: "Greatly desired by many"
-  choices:
-    - "Broken and uncomfortable"
-    - "Greatly desired by many"
-    - "Painted a bright green color"
-    - "Reserved for teachers only"
+  - question: "The twins sat on the most coveted stools [29]. What does 'coveted' mean?"
+    answer: "Greatly desired by many"
+    choices:
+      [
+        "Broken and old",
+        "Greatly desired by many",
+        "Painted blue",
+        "Reserved for adults",
+      ]
+  - question: "Something that is greatly desired or envied by others is [29]:"
+    answer: "Coveted"
+    choices: ["Coveted", "Renowned", "Imposing", "Picturesque"]
 
-- question: "Pandey Sir presumed he was alone in the washroom. What did he do?"
-  answer: "Supposed something was true without proof"
-  choices:
-    - "Checked every stall"
-    - "Supposed something was true without proof"
-    - "Locked the door behind him"
-    - "Called out for a friend"
+  - question: "Pandey Sir presumed he was alone in the washroom [30]. What did he do?"
+    answer: "Supposed something was true without proof"
+    choices:
+      [
+        "Checked the stalls",
+        "Supposed something was true without proof",
+        "Locked the door",
+        "Called a friend",
+      ]
+  - question: "To suppose that something is the case on the basis of probability is to [30]:"
+    answer: "Presume"
+    choices: ["Presume", "Infer", "Probe", "Relent"]
 
-- question: "Aditya implored Kabir to stop acting pricey. What did he do?"
-  answer: "Begged someone earnestly"
-  choices:
-    - "Gave someone money"
-    - "Begged someone earnestly"
-    - "Shouted angrily"
-    - "Laughed at a joke"
+  - question: "Aditya implored Kabir to stop acting pricey [31]. What did he do?"
+    answer: "Begged someone earnestly"
+    choices:
+      [
+        "Gave someone money",
+        "Begged someone earnestly",
+        "Shouted angrily",
+        "Whispered a secret",
+      ]
+  - question: "To beg someone earnestly or desperately to do something is to [31]:"
+    answer: "Implore"
+    choices: ["Implore", "Crane", "Relent", "Mutter"]
 
-- question: "They stood in the lane adjacent to a large bungalow. Where was the lane?"
-  answer: "Next to or adjoining"
-  choices:
-    - "Far away from"
-    - "Next to or adjoining"
-    - "Inside the building"
-    - "Above the garage"
+  - question: "They stood in the lane adjacent to a large bungalow [32]. Where was it?"
+    answer: "Next to or adjoining"
+    choices:
+      [
+        "Far away from",
+        "Next to or adjoining",
+        "Inside the fence",
+        "Across the city",
+      ]
+  - question: "Something that is next to or adjoining something else is [32]:"
+    answer: "Adjacent"
+    choices: ["Adjacent", "Vicinity", "Imposing", "Diminutive"]
 
-- question: "Aditya was getting more anxious as it got dark. How did he feel?"
-  answer: "Worried or uneasy"
-  choices:
-    - "Very tired and sleepy"
-    - "Worried or uneasy"
-    - "Excited for a party"
-    - "Strong and brave"
+  - question: "Aditya was getting more anxious as it got dark [33]. How did he feel?"
+    answer: "Worried or uneasy"
+    choices:
+      ["Tired and sleepy", "Worried or uneasy", "Bored", "Strong and brave"]
+  - question: "To feel experiencing worry, unease, or nervousness is to be [33]:"
+    answer: "Anxious"
+    choices: ["Anxious", "Unruffled", "Lethargic", "Intense"]
 
-- question: "Kabir spoke sombrely about the SIS envelope. How did he speak?"
-  answer: "In a serious and sad manner"
-  choices:
-    - "In a high, squeaky voice"
-    - "In a serious and sad manner"
-    - "While eating a sandwich"
-    - "Very quickly and happily"
+  - question: "Kabir spoke sombrely about the SIS envelope [34]. How did he speak?"
+    answer: "In a serious and sad manner"
+    choices:
+      [
+        "In a high, squeaky voice",
+        "In a serious and sad manner",
+        "While laughing",
+        "Very quickly",
+      ]
+  - question: "If a person speaks in a dark, serious, or gloomy manner, they speak [34]:"
+    answer: "Sombrely"
+    choices: ["Sombrely", "Menacingly", "Visibly", "Cheeky"]
 
-- question: "Akriti wondered why anyone would try to discredit the school. What does 'discredit' mean?"
-  answer: "To harm the good reputation of"
-  choices:
-    - "To give someone money"
-    - "To harm the good reputation of"
-    - "To clean a classroom"
-    - "To build a new library"
+  - question: "Akriti wondered why anyone would try to discredit the school [35]. What does 'discredit' mean?"
+    answer: "To harm the good reputation of"
+    choices:
+      [
+        "To clean a floor",
+        "To harm the good reputation of",
+        "To build a wall",
+        "To help a teacher",
+      ]
+  - question: "To harm the good reputation of someone or something is to [35]:"
+    answer: "Discredit"
+    choices: ["Discredit", "Refurbish", "Defame", "Relent"]
 
-- question: "Chief Walia had a diminutive frame. What does 'diminutive' mean?"
-  answer: "Unusually small"
-  choices:
-    - "Very large and scary"
-    - "Unusually small"
-    - "Brightly colored"
-    - "Strong and muscular"
+  - question: "Chief Walia had a diminutive frame [36]. What does 'diminutive' mean?"
+    answer: "Unusually small"
+    choices:
+      [
+        "Very large and scary",
+        "Unusually small",
+        "Extremely muscular",
+        "Brightly colored",
+      ]
+  - question: "A word that describes something or someone that is unusually small is [36]:"
+    answer: "Diminutive"
+    choices: ["Diminutive", "Gaunt", "Imposing", "Picturesque"]
 
-- question: "Aditya's tone toward his grandfather bordered on ridicule. What does 'ridicule' mean?"
-  answer: "The subjection of someone to mockery"
-  choices:
-    - "Great respect and love"
-    - "The subjection of someone to mockery"
-    - "A quiet whisper"
-    - "A friendly greeting"
+  - question: "Aditya's tone toward his grandfather bordered on ridicule [37]. What is 'ridicule'?"
+    answer: "The subjection of someone to mockery"
+    choices:
+      [
+        "Great respect",
+        "The subjection of someone to mockery",
+        "A quiet whisper",
+        "A friendly greeting",
+      ]
+  - question: "The subjection of someone or something to contemptuous and dismissive language or behavior is [37]:"
+    answer: "Ridicule"
+    choices: ["Ridicule", "Lament", "Sabotage", "Mishap"]
 
-- question: "Sister Leena was paranoid about safety. What does 'paranoid' mean here?"
-  answer: "Having an obsessive or irrational worry"
-  choices:
-    - "Not caring at all"
-    - "Having an obsessive or irrational worry"
-    - "Very well-informed"
-    - "Always telling jokes"
+  - question: "Sister Leena was paranoid about safety [38]. What does 'paranoid' mean?"
+    answer: "Having an obsessive or irrational worry"
+    choices:
+      [
+        "Not caring at all",
+        "Having an obsessive or irrational worry",
+        "Well-informed",
+        "Telling jokes",
+      ]
+  - question: "The state of being obsessively anxious, suspicious, or worried is [38]:"
+    answer: "Paranoid"
+    choices: ["Paranoid", "Unruffled", "Intense", "Anxious"]
 
-- question: "Inspector Gomez asked menacingly about the fire. How did he ask?"
-  answer: "In a threatening way"
-  choices:
-    - "In a threatening way"
-    - "With a kind smile"
-    - "Very quietly"
-    - "While dancing"
+  - question: "Inspector Gomez asked menacingly about the fire [39]. How did he ask?"
+    answer: "In a threatening way"
+    choices:
+      [
+        "In a threatening way",
+        "With a kind smile",
+        "Very quietly",
+        "While dancing",
+      ]
+  - question: "In a manner that suggests the presence of danger or is threatening is [39]:"
+    answer: "Menacingly"
+    choices: ["Menacingly", "Sombrely", "Visibly", "Cheeky"]
 
-- question: "Inspector Gomez hadn't regained his composure after his fall. What is 'composure'?"
-  answer: "The state of being calm and in control"
-  choices:
-    - "His lost eyeglasses"
-    - "The state of being calm and in control"
-    - "His heavy briefcase"
-    - "His memory of the event"
+  - question: "Inspector Gomez hadn't regained his composure after his fall [40]. What is 'composure'?"
+    answer: "The state of being calm and in control"
+    choices:
+      [
+        "His lost glasses",
+        "The state of being calm and in control",
+        "His memory",
+        "His briefcase",
+      ]
+  - question: "The state of being calm and in control of oneself is [40]:"
+    answer: "Composure"
+    choices: ["Composure", "Amenities", "Stickler", "Virtue"]
